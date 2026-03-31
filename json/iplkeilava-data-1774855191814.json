@@ -1,0 +1,1939 @@
+{
+  "data": {
+    "tournaments": [
+      {
+        "key": "a-rz--cricket--icc--icccwclt--2023-27-8JlY",
+        "name": "ICC Cricket World Cup League Two, 2023-27",
+        "short_name": "ICCCWCLT",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          },
+          {
+            "short_code": "CA",
+            "code": "CAN",
+            "name": "Canada",
+            "official_name": "Canada",
+            "is_region": false
+          },
+          {
+            "short_code": "US",
+            "code": "USA",
+            "name": "United States",
+            "official_name": "United States of America",
+            "is_region": false
+          },
+          {
+            "short_code": "NA",
+            "code": "NAM",
+            "name": "Namibia",
+            "official_name": "Republic of Namibia",
+            "is_region": false
+          },
+          {
+            "short_code": "OM",
+            "code": "OMN",
+            "name": "Oman",
+            "official_name": "Sultanate of Oman",
+            "is_region": false
+          },
+          {
+            "short_code": "NL",
+            "code": "NLD",
+            "name": "Netherlands",
+            "official_name": "Kingdom of the Netherlands",
+            "is_region": false
+          },
+          {
+            "short_code": "NP",
+            "code": "NPL",
+            "name": "Nepal",
+            "official_name": "Federal Democratic Republic of Nepal",
+            "is_region": false
+          },
+          {
+            "short_code": "AE",
+            "code": "ARE",
+            "name": "United Arab Emirates",
+            "official_name": "United Arab Emirates",
+            "is_region": false
+          }
+        ],
+        "start_date": 1707968280,
+        "gender": "male",
+        "point_system": "tournament_based",
+        "competition": {
+          "key": "c__competition__icc_cricket_world_cup_league_two__d6227",
+          "code": "ICCCWCLT",
+          "name": "ICC Cricket World Cup League Two"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1778157900,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-maustrawnqdov-menglannx4qzo-Test--2025-Tprd",
+        "name": "The Ashes, 2025-26",
+        "short_name": "The Ashes, 2025-26",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AU",
+            "code": "AUS",
+            "name": "Australia",
+            "official_name": "the Commonwealth of Australia",
+            "is_region": false
+          }
+        ],
+        "start_date": 1763691600,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__england_vs_australia__127f5",
+          "code": "AUS & ENG Test",
+          "name": "Test of Australia & England"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1767861000,
+        "formats": [
+          "test"
+        ],
+        "tour_key": "a-rz--cricket--icc--maustrawnqdovmenglannx4qzo-IFUj"
+      },
+      {
+        "key": "a-rz--cricket--ecb-uae--ilt20--2025-aYD3",
+        "name": "International League T20, 2025-26",
+        "short_name": "ILT20 2025-26",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AE",
+            "code": "ARE",
+            "name": "United Arab Emirates",
+            "official_name": "United Arab Emirates",
+            "is_region": false
+          }
+        ],
+        "start_date": 1764685800,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "a-rz--cricket--ecb-uae--ilt20",
+          "code": "ILT20",
+          "name": "International League T20"
+        },
+        "association_key": "c__board__ecb__df9f3",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1767551400,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--ca--bblt20--2025-68La",
+        "name": "Big Bash League, 2025-2026",
+        "short_name": "BBLT20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AU",
+            "code": "AUS",
+            "name": "Australia",
+            "official_name": "the Commonwealth of Australia",
+            "is_region": false
+          }
+        ],
+        "start_date": 1765700100,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__big_bash_leauge__6a0e9",
+          "code": "BBLT20",
+          "name": "Big Bash League"
+        },
+        "association_key": "c__board__ca__58678",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769343300,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--nzc--sst20--2025-HVOp",
+        "name": "Super Smash 2025-26",
+        "short_name": "SST20 2025-26",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "NZ",
+            "code": "NZL",
+            "name": "New Zealand",
+            "official_name": "New Zealand",
+            "is_region": false
+          }
+        ],
+        "start_date": 1766711400,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__super_smash__618fd",
+          "code": "SST20",
+          "name": "Super Smash"
+        },
+        "association_key": "c__board__nzc__7252b",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769849700,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--bcb--bpl--2025-26-2Tc8",
+        "name": "Bangladesh Premier League, 2025-26",
+        "short_name": "BPL",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "BD",
+            "code": "BGD",
+            "name": "Bangladesh",
+            "official_name": "People's Republic of Bangladesh",
+            "is_region": false
+          }
+        ],
+        "start_date": 1766739600,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__bangladesh_premier_league__47bbc",
+          "code": "BPL",
+          "name": "Bangladesh Premier League"
+        },
+        "association_key": "c__board__bcb__05ceb",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769184000,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--csa--sa20--2025-26-loK5",
+        "name": "SA20 League, 2025-26",
+        "short_name": "SA20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "ZA",
+            "code": "ZAF",
+            "name": "South Africa",
+            "official_name": "Republic of South Africa",
+            "is_region": false
+          }
+        ],
+        "start_date": 1766763000,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__sa20_league__ddacd",
+          "code": "SA20",
+          "name": "SA20 League"
+        },
+        "association_key": "c__board__csa__08532",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769362200,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mslankaik60q4-mpakist0t5r7q-T20--2025-JhgK",
+        "name": "Pakistan tour of Sri Lanka, 2026",
+        "short_name": "PAK vs SL 2025",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "LK",
+            "code": "LKA",
+            "name": "Sri Lanka",
+            "official_name": "Democratic Socialist Republic of Sri Lanka",
+            "is_region": false
+          }
+        ],
+        "start_date": 1767792600,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__sri_lanka_vs_pakistan__cbc59",
+          "code": "SL & PAK T20",
+          "name": "T20 of Sri Lanka & Pakistan"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1768152600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mslankaik60q4mpakist0t5r7q-UpZw"
+      },
+      {
+        "key": "a-rz--cricket--bcci--wplt20--2026-5x1x",
+        "name": "Womens Premier League, 2026",
+        "short_name": "WPLT20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1767967200,
+        "gender": "female",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__womens_premier_league__4fbd1",
+          "code": "WPLT20",
+          "name": "Womens Premier League"
+        },
+        "association_key": "c__board__bcci__b13f0",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1770314400,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mindialf3lb7-mnzealanpwezly-Oneday--2026-Ib45",
+        "name": "New Zealand tour of India, 2026",
+        "short_name": "NZ vs IND 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1768118400,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_vs_new_zealand__6c489",
+          "code": "IND & NZ Oneday",
+          "name": "Oneday of India & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1768755600,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--mindialf3lb7mnzealanpwezly-WJCm"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mafghanvdek0f-mwindiesxv8aqd-T20--2026-wLVl",
+        "name": "Afghanistan v West Indies in UAE, 2026",
+        "short_name": "AFG vs WI 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AE",
+            "code": "ARE",
+            "name": "United Arab Emirates",
+            "official_name": "United Arab Emirates",
+            "is_region": false
+          }
+        ],
+        "start_date": 1768833000,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__afghanistan_vs_west_indies__9c000",
+          "code": "AFG & WI T20",
+          "name": "T20 of Afghanistan & West Indies"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769106600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mafghanvdek0fmwindiesxv8aqd-7KFU"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mindialf3lb7-mnzealanpwezly-T20--2026-J79t",
+        "name": "New Zealand tour of India, 2026",
+        "short_name": "NZ vs IND 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1769002200,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_vs_new_zealand__6c489",
+          "code": "IND & NZ T20",
+          "name": "T20 of India & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769880600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mindialf3lb7mnzealanpwezly-WJCm"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mslankaik60q4-menglannx4qzo-Oneday--2026-MUjG",
+        "name": "England tour of Sri Lanka 2026",
+        "short_name": "ENG vs SL 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "LK",
+            "code": "LKA",
+            "name": "Sri Lanka",
+            "official_name": "Democratic Socialist Republic of Sri Lanka",
+            "is_region": false
+          }
+        ],
+        "start_date": 1769072400,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__england_vs_sri_lanka__6c031",
+          "code": "SL & ENG Oneday",
+          "name": "Oneday of Sri Lanka & England"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769536800,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--mslankaik60q4menglannx4qzo-B1kd"
+      },
+      {
+        "key": "a-rz--cricket--icc--wlptl-igoY--2026-GMiB",
+        "name": "World Legends Pro T20 League, 2026",
+        "short_name": "WLPTL20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1769436000,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "a-rz--cricket--icc--wlptl-igoY",
+          "code": "WLPTL",
+          "name": "World Legends Pro T20 League"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1770228000,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-msafricac4ivno-mwindiesxv8aqd-T20--2025-m0iI",
+        "name": "West Indies tour of South Africa, 2026",
+        "short_name": "SA vs WI 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "ZA",
+            "code": "ZAF",
+            "name": "South Africa",
+            "official_name": "Republic of South Africa",
+            "is_region": false
+          }
+        ],
+        "start_date": 1769529600,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__south_africa_vs_west_indies__7f04c",
+          "code": "SA & WI T20",
+          "name": "T20 of South Africa & West Indies"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769889600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--msafricac4ivnomwindiesxv8aqd-k6Mz"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mpakist0t5r7q-maustrawnqdov-T20--2026-kVTE",
+        "name": "Australia tour of Pakistan, 2026",
+        "short_name": "AUS vs PAK 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "PK",
+            "code": "PAK",
+            "name": "Pakistan",
+            "official_name": "Islamic Republic of Pakistan",
+            "is_region": false
+          }
+        ],
+        "start_date": 1769684400,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__pakistan_vs_australia__04760",
+          "code": "PAK & AUS T20",
+          "name": "T20 of Pakistan & Australia"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769958000,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mpakist0t5r7qmaustrawnqdov-HcaG"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-muaemiratnqdbay-mirelanapphny-T20--2026-FEV0",
+        "name": "Ireland tour of United Arab Emirates, 2026",
+        "short_name": "UAE vs IRE 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AE",
+            "code": "ARE",
+            "name": "United Arab Emirates",
+            "official_name": "United Arab Emirates",
+            "is_region": false
+          }
+        ],
+        "start_date": 1769697000,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-muaemiratnqdbay-mirelanapphny-T20",
+          "code": "UAE & IRE T20",
+          "name": "T20 of United Arab Emirates & Ireland"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1769853600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--muaemiratnqdbaymirelanapphny-7sRx"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mslankaik60q4-menglannx4qzo-T20--2026-FXJN",
+        "name": "England tour of Sri Lanka 2026",
+        "short_name": "ENG vs SL 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "LK",
+            "code": "LKA",
+            "name": "Sri Lanka",
+            "official_name": "Democratic Socialist Republic of Sri Lanka",
+            "is_region": false
+          }
+        ],
+        "start_date": 1769779800,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__england_vs_sri_lanka__6c031",
+          "code": "SL & ENG T20",
+          "name": "T20 of Sri Lanka & England"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1770139800,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mslankaik60q4menglannx4qzo-B1kd"
+      },
+      {
+        "key": "a-rz--cricket--icc--iccwct20--2026-YaNA",
+        "name": "ICC Men's T20 World Cup, 2026",
+        "short_name": "ICC WCT20 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1770442200,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__icc_mens_t20_world_cup__27cad",
+          "code": "ICCWCT20",
+          "name": "ICC Men's T20 World Cup"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1772991000,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fsafricablwkep-fpakistvmddkv-T20--2025-Tbgr",
+        "name": "Pakistan Women tour of South Africa, 2026",
+        "short_name": "SA-W vs PAK-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "ZA",
+            "code": "ZAF",
+            "name": "South Africa",
+            "official_name": "Republic of South Africa",
+            "is_region": false
+          }
+        ],
+        "start_date": 1770739200,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__south_africa_women_vs_pakistan_women__40230",
+          "code": "SA-W & PAK-W T20",
+          "name": "T20 of South Africa & Pakistan"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1771272000,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fsafricablwkepfpakistvmddkv-mnT1"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-faustrafrjod4-findiavlaxld-T20--2026-iYEc",
+        "name": "India Women tour of Australia, 2026",
+        "short_name": "AUS-W vs IND-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AU",
+            "code": "AUS",
+            "name": "Australia",
+            "official_name": "the Commonwealth of Australia",
+            "is_region": false
+          }
+        ],
+        "start_date": 1771143300,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_women_vs_australia_women__d4668",
+          "code": "AUS-W & IND-W T20",
+          "name": "T20 of Australia & India"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1771676100,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--faustrafrjod4findiavlaxld-c6pM"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fslankafifow1-Oneday--2026-4JL5",
+        "name": "Sri Lanka Women tour of West Indies 2026",
+        "short_name": "WI-W vs SL-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GD",
+            "code": "GRD",
+            "name": "Grenada",
+            "official_name": "Grenada",
+            "is_region": false
+          }
+        ],
+        "start_date": 1771594200,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fslankafifow1-Oneday",
+          "code": "WI-W & SL-W Oneday",
+          "name": "Oneday of West Indies Women & Sri Lanka Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1772058600,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfslankafifow1-xYfE"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fsafricablwkep-fpakistvmddkv-Oneday--2025-Qb3Y",
+        "name": "Pakistan Women tour of South Africa, 2026",
+        "short_name": "SA-W vs PAK-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "ZA",
+            "code": "ZAF",
+            "name": "South Africa",
+            "official_name": "Republic of South Africa",
+            "is_region": false
+          }
+        ],
+        "start_date": 1771747200,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__south_africa_women_vs_pakistan_women__40230",
+          "code": "SA-W & PAK-W Oneday",
+          "name": "Oneday of South Africa & Pakistan"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1772384400,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--fsafricablwkepfpakistvmddkv-mnT1"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-faustrafrjod4-findiavlaxld-Oneday--2026-7Je2",
+        "name": "India Women tour of Australia, 2026",
+        "short_name": "AUS-W vs IND-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AU",
+            "code": "AUS",
+            "name": "Australia",
+            "official_name": "the Commonwealth of Australia",
+            "is_region": false
+          }
+        ],
+        "start_date": 1771905000,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_women_vs_australia_women__d4668",
+          "code": "AUS-W & IND-W Oneday",
+          "name": "Oneday of Australia & India"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1772369400,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--faustrafrjod4findiavlaxld-c6pM"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fnzealannfgw5n-fzimbabsriqto-T20--2025-AMAW",
+        "name": "Zimbabwe Women tour of New Zealand, 2026",
+        "short_name": "NZ-W vs ZIM-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "NZ",
+            "code": "NZL",
+            "name": "New Zealand",
+            "official_name": "New Zealand",
+            "is_region": false
+          }
+        ],
+        "start_date": 1772000100,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-fnzealannfgw5n-fzimbabsriqto-T20",
+          "code": "NZ-W & ZIM-W T20",
+          "name": "T20 of New Zealand Women & Zimbabwe Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1772338500,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fnzealannfgw5nfzimbabsriqto-i1b7"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fslankafifow1-T20--2026-bcpg",
+        "name": "Sri Lanka Women tour of West Indies 2026",
+        "short_name": "WI-W vs SL-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GD",
+            "code": "GRD",
+            "name": "Grenada",
+            "official_name": "Grenada",
+            "is_region": false
+          }
+        ],
+        "start_date": 1772298000,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-fslankafifow1-T20",
+          "code": "WI-W & SL-W T20",
+          "name": "T20 of West Indies Women & Sri Lanka Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1772571600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfslankafifow1-xYfE"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fnzealannfgw5n-fzimbabsriqto-Oneday--2025-DQtm",
+        "name": "Zimbabwe Women tour of New Zealand, 2026",
+        "short_name": "NZ-W vs ZIM-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "NZ",
+            "code": "NZL",
+            "name": "New Zealand",
+            "official_name": "New Zealand",
+            "is_region": false
+          }
+        ],
+        "start_date": 1772661600,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-fnzealannfgw5n-fzimbabsriqto-Oneday",
+          "code": "NZ-W & ZIM-W Oneday",
+          "name": "Oneday of New Zealand Women & Zimbabwe Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1773212400,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--fnzealannfgw5nfzimbabsriqto-6qD0"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-faustrafrjod4-findiavlaxld-Test--2026-sTx6",
+        "name": "India Women tour of Australia, 2026",
+        "short_name": "AUS-W vs IND-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AU",
+            "code": "AUS",
+            "name": "Australia",
+            "official_name": "the Commonwealth of Australia",
+            "is_region": false
+          }
+        ],
+        "start_date": 1772774400,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_women_vs_australia_women__d4668",
+          "code": "AUS-W & IND-W Test",
+          "name": "Test of Australia & India"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1773152400,
+        "formats": [
+          "test"
+        ],
+        "tour_key": "a-rz--cricket--icc--faustrafrjod4findiavlaxld-c6pM"
+      },
+      {
+        "key": "a-rz--cricket--mca--pm-AnmO--2026-q3Hv",
+        "name": "Pro10 Malaysia, 2026",
+        "short_name": "PM",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "MY",
+            "code": "MYS",
+            "name": "Malaysia",
+            "official_name": "Federation of Malaya",
+            "is_region": false
+          }
+        ],
+        "start_date": 1773108000,
+        "gender": "male",
+        "point_system": "tournament_based",
+        "competition": {
+          "key": "a-rz--cricket--mca--pm-AnmO",
+          "code": "PM",
+          "name": "Pro10 Malaysia"
+        },
+        "association_key": "c__board__malaysian_cricket_association__4627f",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1777110300,
+        "formats": [
+          "t10"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mbanglaefrnrq-mpakist0t5r7q-Oneday--2026-FNfD",
+        "name": "Pakistan tour of Bangladesh, 2026",
+        "short_name": "BAN vs PAK 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "BD",
+            "code": "BGD",
+            "name": "Bangladesh",
+            "official_name": "People's Republic of Bangladesh",
+            "is_region": false
+          }
+        ],
+        "start_date": 1773216900,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__bangladesh_vs_pakistan__4b1f8",
+          "code": "BAN & PAK Oneday",
+          "name": "Oneday of Bangladesh & Pakistan"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1773594900,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--mbanglaefrnrqmpakist0t5r7q-MWAO"
+      },
+      {
+        "key": "a-rz--cricket--icc--llct20--2026-aGOq",
+        "name": "Legends League Cricket, 2026",
+        "short_name": "icc/llct20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1773237600,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__legends_league_cricket__7831a",
+          "code": "icc/llct20",
+          "name": "Legends League Cricket"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1774634400,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fnzealannfgw5n-fsafricablwkep-T20--2026-YiL1",
+        "name": "South Africa Women tour of New Zealand, 2026",
+        "short_name": "NZ-W vs SA-W ",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "NZ",
+            "code": "NZL",
+            "name": "New Zealand",
+            "official_name": "New Zealand",
+            "is_region": false
+          }
+        ],
+        "start_date": 1773539100,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__new_zealand_women_vs_south_africa_women__1f8aa",
+          "code": "NZ-W & SA-W T20",
+          "name": "T20 of New Zealand & South Africa"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1774417500,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fnzealannfgw5nfsafricablwkep-1oBC"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mnzealanpwezly-msafricac4ivno-T20--2025-TszN",
+        "name": "South Africa tour of New Zealand, 2026",
+        "short_name": "NZ vs SA",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "NZ",
+            "code": "NZL",
+            "name": "New Zealand",
+            "official_name": "New Zealand",
+            "is_region": false
+          }
+        ],
+        "start_date": 1773555300,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__new_zealand_vs_south_africa__85081",
+          "code": "NZ & SA T20",
+          "name": "T20 of New Zealand & South Africa"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1774433700,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mnzealanpwezlymsafricac4ivno-S18l"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-faustrafrjod4-T20--2026-ijJF",
+        "name": "Australia Women tour of West Indies, 2026",
+        "short_name": "WI-W vs AUS-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "VC",
+            "code": "VCT",
+            "name": "Saint Vincent and the Grenadines",
+            "official_name": "Saint Vincent and the Grenadines",
+            "is_region": false
+          }
+        ],
+        "start_date": 1773959400,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__west_indies_women_vs_australia_women__b9c79",
+          "code": "WI-W & AUS-W T20",
+          "name": "T20 of West Indies & Australia"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1774319400,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfaustrafrjod4-xHWm"
+      },
+      {
+        "key": "a-rz--cricket--pcb--pslt20--2026-Kk86",
+        "name": "Pakistan Super League, 2026",
+        "short_name": "PSLT20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "PK",
+            "code": "PAK",
+            "name": "Pakistan",
+            "official_name": "Islamic Republic of Pakistan",
+            "is_region": false
+          }
+        ],
+        "start_date": 1774533600,
+        "gender": "male",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__pakistan_super_league__45b91",
+          "code": "PSLT20",
+          "name": "Pakistan Super League"
+        },
+        "association_key": "c__board__pcb__83758",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1777831200,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fwindies8rkcxn-faustrafrjod4-Oneday--2026-QJwQ",
+        "name": "Australia Women tour of West Indies, 2026",
+        "short_name": "WI-W vs AUS-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "KN",
+            "code": "KNA",
+            "name": "Saint Kitts and Nevis",
+            "official_name": "Saint Kitts and Nevis",
+            "is_region": false
+          }
+        ],
+        "start_date": 1774634400,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__west_indies_women_vs_australia_women__b9c79",
+          "code": "WI-W & AUS-W Oneday",
+          "name": "Oneday of West Indies & Australia"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1775185200,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--fwindies8rkcxnfaustrafrjod4-xHWm"
+      },
+      {
+        "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+        "name": "Indian Premier League, 2026",
+        "short_name": "IPLT20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1774706400,
+        "gender": "male",
+        "point_system": "tournament_based",
+        "competition": {
+          "key": "c__competition__indian_premier_league__217d1",
+          "code": "IPLT20",
+          "name": "Indian Premier League"
+        },
+        "association_key": "c__board__bcci__b13f0",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1779645600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fnzealannfgw5n-fsafricablwkep-Oneday--2026-BloJ",
+        "name": "South Africa Women tour of New Zealand, 2026",
+        "short_name": "NZ-W vs SA-W ",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "NZ",
+            "code": "NZL",
+            "name": "New Zealand",
+            "official_name": "New Zealand",
+            "is_region": false
+          }
+        ],
+        "start_date": 1774746000,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__new_zealand_women_vs_south_africa_women__1f8aa",
+          "code": "NZ-W & SA-W Oneday",
+          "name": "Oneday of New Zealand Women & South Africa Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1775286000,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--fnzealannfgw5nfsafricablwkep-1oBC"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mafghanvdek0f-mslankaik60q4-T20--2026-zcdF",
+        "name": "Afghanistan v Sri Lanka in UAE, 2026",
+        "short_name": "AFG vs SL 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AE",
+            "code": "ARE",
+            "name": "United Arab Emirates",
+            "official_name": "United Arab Emirates",
+            "is_region": false
+          }
+        ],
+        "start_date": 1776090600,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__sri_lanka_vs_afghanistan__48bdc",
+          "code": "AFG & SL T20",
+          "name": "T20 of Afghanistan & Sri Lanka"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1776450600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mafghanvdek0fmslankaik60q4-ql0C"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mbanglaefrnrq-mnzealanpwezly-Oneday--2026-yi8V",
+        "name": "New Zealand tour of Bangladesh, 2026",
+        "short_name": "BAN vs NZ 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "BD",
+            "code": "BGD",
+            "name": "Bangladesh",
+            "official_name": "People's Republic of Bangladesh",
+            "is_region": false
+          }
+        ],
+        "start_date": 1776412800,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__bangladesh_vs_new_zealand__fe18f",
+          "code": "BAN & NZ Oneday",
+          "name": "Oneday of Bangladesh & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1776963600,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--mbanglaefrnrqmnzealanpwezly-2SRA"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fsafricablwkep-findiavlaxld-T20--2026-FDV3",
+        "name": "India Women tour of South Africa, 2026",
+        "short_name": "SA-W vs IND-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "ZA",
+            "code": "ZAF",
+            "name": "South Africa",
+            "official_name": "Republic of South Africa",
+            "is_region": false
+          }
+        ],
+        "start_date": 1776441600,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_women_vs_south_africa_women__75987",
+          "code": "SA-W & IND-W T20",
+          "name": "T20 of South Africa & India"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1777305600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fsafricablwkepfindiavlaxld-KFl5"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fbanglaphzitl-fslankafifow1-Oneday--2026-h2MM",
+        "name": "Sri Lanka Women tour of Bangladesh 2026",
+        "short_name": "BAN-W vs SL-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "BD",
+            "code": "BGD",
+            "name": "Bangladesh",
+            "official_name": "People's Republic of Bangladesh",
+            "is_region": false
+          }
+        ],
+        "start_date": 1776655800,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-fbanglaphzitl-fslankafifow1-Oneday",
+          "code": "BAN-W & SL-W Oneday",
+          "name": "Oneday of Bangladesh Women & Sri Lanka Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1777120200,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--fbanglaphzitlfslankafifow1-rfJP"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mafghanvdek0f-mslankaik60q4-Oneday--2026-DGJR",
+        "name": "Afghanistan v Sri Lanka in UAE, 2026",
+        "short_name": "AFG vs SL 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "AE",
+            "code": "ARE",
+            "name": "United Arab Emirates",
+            "official_name": "United Arab Emirates",
+            "is_region": false
+          }
+        ],
+        "start_date": 1776661200,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__sri_lanka_vs_afghanistan__48bdc",
+          "code": "AFG & SL Oneday",
+          "name": "Oneday of Afghanistan & Sri Lanka"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1777125600,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--mafghanvdek0fmslankaik60q4-ql0C"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mbanglaefrnrq-mnzealanpwezly-T20--2026-WzlM",
+        "name": "New Zealand tour of Bangladesh, 2026",
+        "short_name": "BAN vs NZ 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "BD",
+            "code": "BGD",
+            "name": "Bangladesh",
+            "official_name": "People's Republic of Bangladesh",
+            "is_region": false
+          }
+        ],
+        "start_date": 1777291200,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__bangladesh_vs_new_zealand__fe18f",
+          "code": "BAN & NZ T20",
+          "name": "T20 of Bangladesh & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1777723200,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mbanglaefrnrqmnzealanpwezly-2SRA"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fbanglaphzitl-fslankafifow1-T20--2026-pwOB",
+        "name": "Sri Lanka Women tour of Bangladesh 2026",
+        "short_name": "BAN-W vs SL-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "BD",
+            "code": "BGD",
+            "name": "Bangladesh",
+            "official_name": "People's Republic of Bangladesh",
+            "is_region": false
+          }
+        ],
+        "start_date": 1777377600,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-fbanglaphzitl-fslankafifow1-T20",
+          "code": "BAN-W & SL-W T20",
+          "name": "T20 of Bangladesh Women & Sri Lanka Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1777737600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fbanglaphzitlfslankafifow1-rfJP"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fenglanzgtdms-fnzealannfgw5n-Oneday--2026-QYoI",
+        "name": "New Zealand Women tour of England, 2026",
+        "short_name": "NZ-W vs ENG-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1778407200,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__england_women_vs_new_zealand_women__dd48a",
+          "code": "ENG-W & NZ-W Oneday",
+          "name": "Oneday of England & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1778958000,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--fenglanzgtdmsfnzealannfgw5n-eWBk"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fenglanzgtdms-fnzealannfgw5n-T20--2026-ZmTo",
+        "name": "New Zealand Women tour of England, 2026",
+        "short_name": "NZ-W vs ENG-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1779298200,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__england_women_vs_new_zealand_women__dd48a",
+          "code": "ENG-W & NZ-W T20",
+          "name": "T20 of England & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1779744600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fenglanzgtdmsfnzealannfgw5n-eWBk"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mirelanapphny-mnzealanpwezly-Test--2026-VOfZ",
+        "name": "New Zealand tour of Ireland 2026",
+        "short_name": "IRE vs NZ 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1779876000,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__new_zealand_tour_of_ireland_2022__08416",
+          "code": "IRE & NZ Test",
+          "name": "Test of Ireland & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1780254000,
+        "formats": [
+          "test"
+        ],
+        "tour_key": "a-rz--cricket--icc--mirelanapphnymnzealanpwezly-PYE4"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fenglanzgtdms-findiavlaxld-T20--2026-ZHWt",
+        "name": "India Women tour of England, 2026",
+        "short_name": "IND-W vs ENG-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1779989400,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_women_vs_england_women__2bfd7",
+          "code": "ENG-W & IND-W T20",
+          "name": "T20 of England Women & India Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1780435800,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--fenglanzgtdmsfindiavlaxld-oWlJ"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-menglannx4qzo-mnzealanpwezly-Test--2026-F0fn",
+        "name": "New Zealand tour of England, 2026",
+        "short_name": "NZ vs ENG 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1780567200,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__new_zealand_vs_england__c0999",
+          "code": "ENG & NZ Test",
+          "name": "Test of England & New Zealand"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1782759600,
+        "formats": [
+          "test"
+        ],
+        "tour_key": "a-rz--cricket--icc--menglannx4qzomnzealanpwezly-TiPM"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mindialf3lb7-mafghanvdek0f-Test--2026-Pjce",
+        "name": "Afghanistan tour of India 2026",
+        "short_name": "IND vs AFG 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1780718400,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_vs_afghanistan__5e997",
+          "code": "IND & AFG Test",
+          "name": "Test of India & Afghanistan"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1781096400,
+        "formats": [
+          "test"
+        ],
+        "tour_key": "a-rz--cricket--icc--mindialf3lb7mafghanvdek0f-CoKf"
+      },
+      {
+        "key": "a-rz--cricket--icc--iccwwc__t20--2026-wgJX",
+        "name": "ICC Womens T20 World Cup, 2026",
+        "short_name": "ICCWWC__T20",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1781285400,
+        "gender": "female",
+        "point_system": "round_based",
+        "competition": {
+          "key": "c__competition__icc_womens_t20_world_cup_2020__ec631",
+          "code": "ICCWWC__T20",
+          "name": "ICC Womens T20 World Cup"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1783272600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": null
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mindialf3lb7-mafghanvdek0f-Oneday--2026-vgOa",
+        "name": "Afghanistan tour of India 2026",
+        "short_name": "IND vs AFG 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          }
+        ],
+        "start_date": 1781424000,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_vs_afghanistan__5e997",
+          "code": "IND & AFG Oneday",
+          "name": "Oneday of India & Afghanistan"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1781974800,
+        "formats": [
+          "oneday"
+        ],
+        "tour_key": "a-rz--cricket--icc--mindialf3lb7mafghanvdek0f-CoKf"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-mirelanapphny-mindialf3lb7-T20--2026-asn2",
+        "name": "India tour of Ireland, 2026",
+        "short_name": "IRE vs IND 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1782482400,
+        "gender": "male",
+        "point_system": "no_points",
+        "competition": {
+          "key": "a-rz--cricket--icc--tour-mirelanapphny-mindialf3lb7-T20",
+          "code": "IRE & IND T20",
+          "name": "T20 of Ireland & India"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1782669600,
+        "formats": [
+          "t20"
+        ],
+        "tour_key": "a-rz--cricket--icc--mirelanapphnymindialf3lb7-XvcD"
+      },
+      {
+        "key": "a-rz--cricket--icc--tour-fenglanzgtdms-findiavlaxld-Test--2026-NPsn",
+        "name": "India Women tour of England, 2026",
+        "short_name": "IND-W vs ENG-W 2026",
+        "alternate_name": null,
+        "alternate_short_name": null,
+        "countries": [
+          {
+            "short_code": "GB",
+            "code": "GBR",
+            "name": "United Kingdom",
+            "official_name": "United Kingdom of Great Britain and Northern Ireland",
+            "is_region": false
+          }
+        ],
+        "start_date": 1783677600,
+        "gender": "female",
+        "point_system": "no_points",
+        "competition": {
+          "key": "c__competition__india_women_vs_england_women__2bfd7",
+          "code": "ENG-W & IND-W Test",
+          "name": "Test of England Women & India Women"
+        },
+        "association_key": "c__board__icc__c2ab7ee61",
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "is_date_confirmed": true,
+        "is_venue_confirmed": true,
+        "last_scheduled_match_date": 1784055600,
+        "formats": [
+          "test"
+        ],
+        "tour_key": "a-rz--cricket--icc--fenglanzgtdmsfindiavlaxld-oWlJ"
+      }
+    ],
+    "next_page_key": null,
+    "previous_page_key": null
+  },
+  "cache": {
+    "key": "api:rz:v5_cricket_featured-tournaments:#featured",
+    "expires": 1774919319.593684,
+    "etag": "ET:dk13048422935365295472:0",
+    "max_age": 300
+  },
+  "schema": {
+    "major_version": "5.0",
+    "minor_version": "2"
+  },
+  "error": null,
+  "http_status_code": 200
+}

@@ -1,0 +1,730 @@
+{
+  "data": {
+    "matches": [
+      {
+        "key": "a-rz--cricket--lJ2031799077993340929",
+        "name": "Royal Challengers Bengaluru vs Sunrisers Hyderabad",
+        "short_name": "RCB vs SRH",
+        "sub_title": "1st Match",
+        "status": "completed",
+        "start_at": 1774706400,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": "a",
+        "teams": {
+          "a": {
+            "key": "rcb",
+            "code": "RCB",
+            "name": "Royal Challengers Bengaluru",
+            "alternate_name": "Bengaluru",
+            "alternate_code": "BEN",
+            "gender_name": "Royal Challengers Bengaluru Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "srh",
+            "code": "SRH",
+            "name": "Sunrisers Hyderabad",
+            "alternate_name": "Hyderabad",
+            "alternate_code": "HYD",
+            "gender_name": "Sunrisers Hyderabad Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "c__stadium__m_chinnaswamy_stadium__bfc18",
+          "name": "M. Chinnaswamy Stadium",
+          "city": "Bengaluru",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "12.9788182,77.5996545"
+        },
+        "expected_start_at": 1774706700,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1774721100,
+        "completed_date_approximate": 1774719171.025
+      },
+      {
+        "key": "a-rz--cricket--XY2031799079113220098",
+        "name": "Mumbai Indians vs Kolkata Knight Riders",
+        "short_name": "MI vs KKR",
+        "sub_title": "2nd Match",
+        "status": "completed",
+        "start_at": 1774792800,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": "a",
+        "teams": {
+          "a": {
+            "key": "mi",
+            "code": "MI",
+            "name": "Mumbai Indians",
+            "alternate_name": "Mumbai",
+            "alternate_code": "MUM",
+            "gender_name": "Mumbai Indians Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "kkr",
+            "code": "KKR",
+            "name": "Kolkata Knight Riders",
+            "alternate_name": "Kolkata",
+            "alternate_code": "KOL",
+            "gender_name": "Kolkata Knight Riders Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "c__stadium__the_wankhede_stadium__d1df3",
+          "name": "Wankhede Stadium",
+          "city": "Mumbai City",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "18.9388528,72.82576399999999"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1774807200,
+        "completed_date_approximate": 1774806147.391
+      },
+      {
+        "key": "a-rz--cricket--hC2031799080170184707",
+        "name": "Rajasthan Royals vs Chennai Super Kings",
+        "short_name": "RR vs CSK",
+        "sub_title": "3rd Match",
+        "status": "not_started",
+        "start_at": 1774879200,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "rr",
+            "code": "RR",
+            "name": "Rajasthan Royals",
+            "alternate_name": "Rajasthan",
+            "alternate_code": "RAJ",
+            "gender_name": "Rajasthan Royals Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "csk",
+            "code": "CSK",
+            "name": "Chennai Super Kings",
+            "alternate_name": "Chennai",
+            "alternate_code": "CHE",
+            "gender_name": "Chennai Super Kings Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "c__stadium__barsapara_cricket_stadium__fedce",
+          "name": "Barsapara Cricket Stadium",
+          "city": "Guwahati",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "26.1452292,91.73643729999999"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1774893600,
+        "completed_date_approximate": null
+      },
+      {
+        "key": "a-rz--cricket--WJ2031799081206177796",
+        "name": "Punjab Kings vs Gujarat Titans",
+        "short_name": "PBKS vs GT",
+        "sub_title": "4th Match",
+        "status": "not_started",
+        "start_at": 1774965600,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "pbks",
+            "code": "PBKS",
+            "name": "Punjab Kings",
+            "alternate_name": "Punjab",
+            "alternate_code": "PUN",
+            "gender_name": "Punjab Kings Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "gt",
+            "code": "GT",
+            "name": "Gujarat Titans",
+            "alternate_name": "Gujarat",
+            "alternate_code": "GUJ",
+            "gender_name": "Gujarat Titans Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "a-rz--ncmysicsm-wDMQ",
+          "name": "New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+          "city": "India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": null
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1774980000,
+        "completed_date_approximate": null
+      },
+      {
+        "key": "a-rz--cricket--rM2031799082242170885",
+        "name": "Lucknow Super Giants vs Delhi Capitals",
+        "short_name": "LSG vs DC",
+        "sub_title": "5th Match",
+        "status": "not_started",
+        "start_at": 1775052000,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "lsg",
+            "code": "LSG",
+            "name": "Lucknow Super Giants",
+            "alternate_name": "Lucknow",
+            "alternate_code": "LKO",
+            "gender_name": "Lucknow Super Giants Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "dc",
+            "code": "DC",
+            "name": "Delhi Capitals",
+            "alternate_name": "Delhi",
+            "alternate_code": "DEL",
+            "gender_name": "Delhi Capitals Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "c__stadium__bharat_ratna_shri_atalbihari_vajpayee_ekana_cricket_stadium__121e9",
+          "name": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+          "city": "Lucknow",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "26.8113358,81.0153562"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1775066400,
+        "completed_date_approximate": null
+      },
+      {
+        "key": "a-rz--cricket--mQ2031799083349467142",
+        "name": "Kolkata Knight Riders vs Sunrisers Hyderabad",
+        "short_name": "KKR vs SRH",
+        "sub_title": "6th Match",
+        "status": "not_started",
+        "start_at": 1775138400,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "kkr",
+            "code": "KKR",
+            "name": "Kolkata Knight Riders",
+            "alternate_name": "Kolkata",
+            "alternate_code": "KOL",
+            "gender_name": "Kolkata Knight Riders Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "srh",
+            "code": "SRH",
+            "name": "Sunrisers Hyderabad",
+            "alternate_name": "Hyderabad",
+            "alternate_code": "HYD",
+            "gender_name": "Sunrisers Hyderabad Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "a-rz--eeden-gg9eb3h",
+          "name": "Eden Gardens",
+          "city": "Kolkata",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "22.5646081,88.34326449999999"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1775152800,
+        "completed_date_approximate": null
+      },
+      {
+        "key": "a-rz--cricket--Og2031799084419014663",
+        "name": "Chennai Super Kings vs Punjab Kings",
+        "short_name": "CSK vs PBKS",
+        "sub_title": "7th Match",
+        "status": "not_started",
+        "start_at": 1775224800,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "csk",
+            "code": "CSK",
+            "name": "Chennai Super Kings",
+            "alternate_name": "Chennai",
+            "alternate_code": "CHE",
+            "gender_name": "Chennai Super Kings Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "pbks",
+            "code": "PBKS",
+            "name": "Punjab Kings",
+            "alternate_name": "Punjab",
+            "alternate_code": "PUN",
+            "gender_name": "Punjab Kings Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "c__stadium__ma_chidambaram_stadium__376c4",
+          "name": "M. A. Chidambaram Stadium",
+          "city": "Chennai",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "13.0626985,80.27931009999999"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1775239200,
+        "completed_date_approximate": null
+      },
+      {
+        "key": "a-rz--cricket--aB2031799085538893832",
+        "name": "Delhi Capitals vs Mumbai Indians",
+        "short_name": "DC vs MI",
+        "sub_title": "8th Match",
+        "status": "not_started",
+        "start_at": 1775296800,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "dc",
+            "code": "DC",
+            "name": "Delhi Capitals",
+            "alternate_name": "Delhi",
+            "alternate_code": "DEL",
+            "gender_name": "Delhi Capitals Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "mi",
+            "code": "MI",
+            "name": "Mumbai Indians",
+            "alternate_name": "Mumbai",
+            "alternate_code": "MUM",
+            "gender_name": "Mumbai Indians Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "c__stadium__arun_jaitley_stadium__4bba5",
+          "name": "Arun Jaitley Stadium",
+          "city": "Central Delhi",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "28.637923,77.2431735"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1775311200,
+        "completed_date_approximate": null
+      },
+      {
+        "key": "a-rz--cricket--K72031799086629412873",
+        "name": "Gujarat Titans vs Rajasthan Royals",
+        "short_name": "GT vs RR",
+        "sub_title": "9th Match",
+        "status": "not_started",
+        "start_at": 1775311200,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "gt",
+            "code": "GT",
+            "name": "Gujarat Titans",
+            "alternate_name": "Gujarat",
+            "alternate_code": "GUJ",
+            "gender_name": "Gujarat Titans Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "rr",
+            "code": "RR",
+            "name": "Rajasthan Royals",
+            "alternate_name": "Rajasthan",
+            "alternate_code": "RAJ",
+            "gender_name": "Rajasthan Royals Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "a-rz--nmnarendwvtecq",
+          "name": "Narendra Modi Stadium",
+          "city": "Ahmedabad",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "23.0917101,72.5975112"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1775325600,
+        "completed_date_approximate": null
+      },
+      {
+        "key": "a-rz--cricket--sV2031799087690571786",
+        "name": "Sunrisers Hyderabad vs Lucknow Super Giants",
+        "short_name": "SRH vs LSG",
+        "sub_title": "10th Match",
+        "status": "not_started",
+        "start_at": 1775383200,
+        "tournament": {
+          "key": "a-rz--cricket--bcci--iplt20--2026-ZGwl",
+          "name": "Indian Premier League, 2026",
+          "short_name": "IPLT20",
+          "alternate_name": "Indian Premier League, 2026",
+          "alternate_short_name": "IPLT20"
+        },
+        "metric_group": "MG100",
+        "sport": "cricket",
+        "winner": null,
+        "teams": {
+          "a": {
+            "key": "srh",
+            "code": "SRH",
+            "name": "Sunrisers Hyderabad",
+            "alternate_name": "Hyderabad",
+            "alternate_code": "HYD",
+            "gender_name": "Sunrisers Hyderabad Men",
+            "country_code": "IND"
+          },
+          "b": {
+            "key": "lsg",
+            "code": "LSG",
+            "name": "Lucknow Super Giants",
+            "alternate_name": "Lucknow",
+            "alternate_code": "LKO",
+            "gender_name": "Lucknow Super Giants Men",
+            "country_code": "IND"
+          }
+        },
+        "venue": {
+          "key": "c__stadium__rajiv_gandhi_international_cricket_stadium__e2d74",
+          "name": "Rajiv Gandhi International Cricket Stadium",
+          "city": "Hyderabad",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "geolocation": "17.4065262,78.5504704"
+        },
+        "expected_start_at": null,
+        "association": {
+          "key": "c__board__bcci__b13f0",
+          "code": "BCCI",
+          "name": "Board of Control for Cricket in India",
+          "country": {
+            "short_code": "IN",
+            "code": "IND",
+            "name": "India",
+            "official_name": "Republic of India",
+            "is_region": false
+          },
+          "parent": null
+        },
+        "messages": [],
+        "gender": "male",
+        "tour_key": null,
+        "format": "t20",
+        "estimated_end_date": 1775397600,
+        "completed_date_approximate": null
+      }
+    ],
+    "previous_page_key": null,
+    "next_page_key": 2
+  },
+  "cache": {
+    "key": "api:rz:v5_cricket_tournament_fixtures:a-rz--cricket--bcci--iplt20--2026-ZGwl#1",
+    "expires": 1774857659.565492,
+    "etag": "ET:sq13048422676744511286:0",
+    "max_age": 300
+  },
+  "schema": {
+    "major_version": "5.0",
+    "minor_version": "2"
+  },
+  "error": null,
+  "http_status_code": 200
+}

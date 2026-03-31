@@ -1,0 +1,775 @@
+{
+  "data": {
+    "summaries": [
+      {
+        "index": {
+          "innings": "a_1",
+          "over_number": 16
+        },
+        "runs": 18,
+        "wickets": 0,
+        "strikers": [
+          {
+            "player_key": "v_kohli",
+            "score": {
+              "runs": 69,
+              "balls": 38,
+              "fours": 5,
+              "sixes": 5,
+              "dot_balls": 9,
+              "strike_rate": 181.58,
+              "ones": 17,
+              "twos": 1,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 72.46376811594203,
+                "boundary_frequency": 3.8,
+                "dot_ball_percentage": 23.684210526315788,
+                "dot_ball_frequency": 4.222222222222222
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          },
+          {
+            "player_key": "tim_david",
+            "score": {
+              "runs": 16,
+              "balls": 10,
+              "fours": 1,
+              "sixes": 1,
+              "dot_balls": 2,
+              "strike_rate": 160,
+              "ones": 6,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 62.5,
+                "boundary_frequency": 5,
+                "dot_ball_percentage": 20,
+                "dot_ball_frequency": 5
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          }
+        ],
+        "bowlers": [
+          {
+            "player_key": "h_patel",
+            "score": {
+              "balls": 16,
+              "runs": 39,
+              "economy": 14.62,
+              "wickets": 0,
+              "extras": 1,
+              "maiden_overs": 0,
+              "overs": [
+                2,
+                4
+              ],
+              "balls_breakup": {
+                "dot_balls": 3,
+                "wides": 1,
+                "no_balls": 0,
+                "fours": 5,
+                "sixes": 2
+              },
+              "wickets_breakup": {
+                "bowled": 0,
+                "caught": 0,
+                "lbw": 0,
+                "stumping": 0
+              },
+              "team_contribution_extras": {
+                "bye": 4,
+                "leg_bye": 0,
+                "penalty": 0
+              },
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 82.05128205128204,
+                "boundary_frequency": 2.2857142857142856,
+                "dot_ball_percentage": 18.75,
+                "dot_ball_frequency": 5.333333333333333
+              }
+            }
+          }
+        ],
+        "match_score": {
+          "runs": 203,
+          "wickets": 4,
+          "run_rate": 12.96,
+          "title": "Required 0 from 26 balls",
+          "req_run_rate": null,
+          "req_balls": 26,
+          "req_runs": 0
+        },
+        "sixes": 1,
+        "fours": 3,
+        "extras": 0,
+        "wides": 0,
+        "no_balls": 0,
+        "leg_byes": 0,
+        "byes": 0
+      },
+      {
+        "index": {
+          "innings": "a_1",
+          "over_number": 15
+        },
+        "runs": 15,
+        "wickets": 0,
+        "strikers": [
+          {
+            "player_key": "tim_david",
+            "score": {
+              "runs": 16,
+              "balls": 10,
+              "fours": 1,
+              "sixes": 1,
+              "dot_balls": 2,
+              "strike_rate": 160,
+              "ones": 6,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 62.5,
+                "boundary_frequency": 5,
+                "dot_ball_percentage": 20,
+                "dot_ball_frequency": 5
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          },
+          {
+            "player_key": "v_kohli",
+            "score": {
+              "runs": 51,
+              "balls": 34,
+              "fours": 2,
+              "sixes": 4,
+              "dot_balls": 9,
+              "strike_rate": 150,
+              "ones": 17,
+              "twos": 1,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 62.745098039215684,
+                "boundary_frequency": 5.666666666666667,
+                "dot_ball_percentage": 26.47058823529412,
+                "dot_ball_frequency": 3.7777777777777777
+              }
+            },
+            "is_dismissed": false,
+            "milestones": [
+              {
+                "milestone_type": "half_century",
+                "ball_key": "1055872",
+                "over_str": "14.2"
+              }
+            ]
+          }
+        ],
+        "bowlers": [
+          {
+            "player_key": "d_payne",
+            "score": {
+              "balls": 18,
+              "runs": 35,
+              "economy": 11.67,
+              "wickets": 2,
+              "extras": 1,
+              "maiden_overs": 0,
+              "overs": [
+                3,
+                0
+              ],
+              "balls_breakup": {
+                "dot_balls": 5,
+                "wides": 1,
+                "no_balls": 0,
+                "fours": 2,
+                "sixes": 3
+              },
+              "wickets_breakup": {
+                "bowled": 0,
+                "caught": 2,
+                "lbw": 0,
+                "stumping": 0
+              },
+              "team_contribution_extras": {
+                "bye": 0,
+                "leg_bye": 0,
+                "penalty": 0
+              },
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 74.28571428571429,
+                "boundary_frequency": 3.6,
+                "dot_ball_percentage": 27.77777777777778,
+                "dot_ball_frequency": 3.6
+              }
+            }
+          }
+        ],
+        "match_score": {
+          "runs": 185,
+          "wickets": 4,
+          "run_rate": 12.33,
+          "title": "Required 17 from 30 balls",
+          "req_run_rate": 3.4,
+          "req_balls": 30,
+          "req_runs": 17
+        },
+        "sixes": 1,
+        "fours": 1,
+        "extras": 1,
+        "wides": 1,
+        "no_balls": 0,
+        "leg_byes": 0,
+        "byes": 0
+      },
+      {
+        "index": {
+          "innings": "a_1",
+          "over_number": 14
+        },
+        "runs": 6,
+        "wickets": 0,
+        "strikers": [
+          {
+            "player_key": "tim_david",
+            "score": {
+              "runs": 4,
+              "balls": 6,
+              "fours": 0,
+              "sixes": 0,
+              "dot_balls": 2,
+              "strike_rate": 66.67,
+              "ones": 4,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 0,
+                "boundary_frequency": 0,
+                "dot_ball_percentage": 33.33333333333333,
+                "dot_ball_frequency": 3
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          },
+          {
+            "player_key": "v_kohli",
+            "score": {
+              "runs": 49,
+              "balls": 32,
+              "fours": 2,
+              "sixes": 4,
+              "dot_balls": 9,
+              "strike_rate": 153.12,
+              "ones": 15,
+              "twos": 1,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 65.3061224489796,
+                "boundary_frequency": 5.333333333333333,
+                "dot_ball_percentage": 28.125,
+                "dot_ball_frequency": 3.5555555555555554
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          }
+        ],
+        "bowlers": [
+          {
+            "player_key": "j_unadkat",
+            "score": {
+              "balls": 18,
+              "runs": 29,
+              "economy": 9.67,
+              "wickets": 1,
+              "extras": 1,
+              "maiden_overs": 0,
+              "overs": [
+                3,
+                0
+              ],
+              "balls_breakup": {
+                "dot_balls": 6,
+                "wides": 1,
+                "no_balls": 0,
+                "fours": 2,
+                "sixes": 2
+              },
+              "wickets_breakup": {
+                "bowled": 0,
+                "caught": 1,
+                "lbw": 0,
+                "stumping": 0
+              },
+              "team_contribution_extras": {
+                "bye": 4,
+                "leg_bye": 1,
+                "penalty": 0
+              },
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 68.96551724137932,
+                "boundary_frequency": 4.5,
+                "dot_ball_percentage": 33.33333333333333,
+                "dot_ball_frequency": 3
+              }
+            }
+          }
+        ],
+        "match_score": {
+          "runs": 170,
+          "wickets": 4,
+          "run_rate": 12.14,
+          "title": "Required 32 from 36 balls",
+          "req_run_rate": 5.33,
+          "req_balls": 36,
+          "req_runs": 32
+        },
+        "sixes": 0,
+        "fours": 0,
+        "extras": 1,
+        "wides": 1,
+        "no_balls": 0,
+        "leg_byes": 0,
+        "byes": 0
+      },
+      {
+        "index": {
+          "innings": "a_1",
+          "over_number": 13
+        },
+        "runs": 2,
+        "wickets": 2,
+        "strikers": [
+          {
+            "player_key": "v_kohli",
+            "score": {
+              "runs": 47,
+              "balls": 29,
+              "fours": 2,
+              "sixes": 4,
+              "dot_balls": 8,
+              "strike_rate": 162.07,
+              "ones": 13,
+              "twos": 1,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 68.08510638297872,
+                "boundary_frequency": 4.833333333333333,
+                "dot_ball_percentage": 27.586206896551722,
+                "dot_ball_frequency": 3.625
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          },
+          {
+            "player_key": "c__player__rajat_patidar__62629",
+            "score": {
+              "runs": 31,
+              "balls": 12,
+              "fours": 2,
+              "sixes": 3,
+              "dot_balls": 2,
+              "strike_rate": 258.33,
+              "ones": 5,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 83.87096774193549,
+                "boundary_frequency": 2.4,
+                "dot_ball_percentage": 16.666666666666664,
+                "dot_ball_frequency": 6
+              }
+            },
+            "is_dismissed": true,
+            "milestones": null
+          },
+          {
+            "player_key": "ji_sharma",
+            "score": {
+              "runs": 0,
+              "balls": 1,
+              "fours": 0,
+              "sixes": 0,
+              "dot_balls": 1,
+              "strike_rate": 0,
+              "ones": 0,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 0,
+                "boundary_frequency": 0,
+                "dot_ball_percentage": 100,
+                "dot_ball_frequency": 1
+              }
+            },
+            "is_dismissed": true,
+            "milestones": null
+          },
+          {
+            "player_key": "tim_david",
+            "score": {
+              "runs": 1,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0,
+              "dot_balls": 2,
+              "strike_rate": 33.33,
+              "ones": 1,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 0,
+                "boundary_frequency": 0,
+                "dot_ball_percentage": 66.66666666666666,
+                "dot_ball_frequency": 1.5
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          }
+        ],
+        "bowlers": [
+          {
+            "player_key": "d_payne",
+            "score": {
+              "balls": 12,
+              "runs": 20,
+              "economy": 10,
+              "wickets": 2,
+              "extras": 0,
+              "maiden_overs": 0,
+              "overs": [
+                2,
+                0
+              ],
+              "balls_breakup": {
+                "dot_balls": 5,
+                "wides": 0,
+                "no_balls": 0,
+                "fours": 1,
+                "sixes": 2
+              },
+              "wickets_breakup": {
+                "bowled": 0,
+                "caught": 2,
+                "lbw": 0,
+                "stumping": 0
+              },
+              "team_contribution_extras": {
+                "bye": 0,
+                "leg_bye": 0,
+                "penalty": 0
+              },
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 80,
+                "boundary_frequency": 4,
+                "dot_ball_percentage": 41.66666666666667,
+                "dot_ball_frequency": 2.4
+              }
+            }
+          }
+        ],
+        "match_score": {
+          "runs": 164,
+          "wickets": 4,
+          "run_rate": 12.62,
+          "title": "Required 38 from 42 balls",
+          "req_run_rate": 5.43,
+          "req_balls": 42,
+          "req_runs": 38
+        },
+        "sixes": 0,
+        "fours": 0,
+        "extras": 0,
+        "wides": 0,
+        "no_balls": 0,
+        "leg_byes": 0,
+        "byes": 0
+      },
+      {
+        "index": {
+          "innings": "a_1",
+          "over_number": 12
+        },
+        "runs": 22,
+        "wickets": 0,
+        "strikers": [
+          {
+            "player_key": "c__player__rajat_patidar__62629",
+            "score": {
+              "runs": 31,
+              "balls": 11,
+              "fours": 2,
+              "sixes": 3,
+              "dot_balls": 1,
+              "strike_rate": 281.82,
+              "ones": 5,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 83.87096774193549,
+                "boundary_frequency": 2.2,
+                "dot_ball_percentage": 9.090909090909092,
+                "dot_ball_frequency": 11
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          },
+          {
+            "player_key": "v_kohli",
+            "score": {
+              "runs": 46,
+              "balls": 28,
+              "fours": 2,
+              "sixes": 4,
+              "dot_balls": 8,
+              "strike_rate": 164.29,
+              "ones": 12,
+              "twos": 1,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 69.56521739130434,
+                "boundary_frequency": 4.666666666666667,
+                "dot_ball_percentage": 28.57142857142857,
+                "dot_ball_frequency": 3.5
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          }
+        ],
+        "bowlers": [
+          {
+            "player_key": "c__player__eshan_malinga__2f2be",
+            "score": {
+              "balls": 12,
+              "runs": 35,
+              "economy": 17.5,
+              "wickets": 0,
+              "extras": 4,
+              "maiden_overs": 0,
+              "overs": [
+                2,
+                0
+              ],
+              "balls_breakup": {
+                "dot_balls": 3,
+                "wides": 4,
+                "no_balls": 0,
+                "fours": 2,
+                "sixes": 3
+              },
+              "wickets_breakup": {
+                "bowled": 0,
+                "caught": 0,
+                "lbw": 0,
+                "stumping": 0
+              },
+              "team_contribution_extras": {
+                "bye": 0,
+                "leg_bye": 0,
+                "penalty": 0
+              },
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 74.28571428571429,
+                "boundary_frequency": 2.4,
+                "dot_ball_percentage": 25,
+                "dot_ball_frequency": 4
+              }
+            }
+          }
+        ],
+        "match_score": {
+          "runs": 162,
+          "wickets": 2,
+          "run_rate": 13.5,
+          "title": "Required 40 from 48 balls",
+          "req_run_rate": 5,
+          "req_balls": 48,
+          "req_runs": 40
+        },
+        "sixes": 2,
+        "fours": 1,
+        "extras": 4,
+        "wides": 4,
+        "no_balls": 0,
+        "leg_byes": 0,
+        "byes": 0
+      },
+      {
+        "index": {
+          "innings": "a_1",
+          "over_number": 11
+        },
+        "runs": 14,
+        "wickets": 0,
+        "strikers": [
+          {
+            "player_key": "v_kohli",
+            "score": {
+              "runs": 45,
+              "balls": 27,
+              "fours": 2,
+              "sixes": 4,
+              "dot_balls": 8,
+              "strike_rate": 166.67,
+              "ones": 11,
+              "twos": 1,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 71.11111111111111,
+                "boundary_frequency": 4.5,
+                "dot_ball_percentage": 29.629629629629626,
+                "dot_ball_frequency": 3.375
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          },
+          {
+            "player_key": "c__player__rajat_patidar__62629",
+            "score": {
+              "runs": 14,
+              "balls": 6,
+              "fours": 1,
+              "sixes": 1,
+              "dot_balls": 0,
+              "strike_rate": 233.33,
+              "ones": 4,
+              "twos": 0,
+              "threes": 0,
+              "fives": 0,
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 71.42857142857143,
+                "boundary_frequency": 3,
+                "dot_ball_percentage": 0,
+                "dot_ball_frequency": 0
+              }
+            },
+            "is_dismissed": false,
+            "milestones": null
+          }
+        ],
+        "bowlers": [
+          {
+            "player_key": "c__player__harsh__a89f1",
+            "score": {
+              "balls": 18,
+              "runs": 35,
+              "economy": 11.67,
+              "wickets": 1,
+              "extras": 0,
+              "maiden_overs": 0,
+              "overs": [
+                3,
+                0
+              ],
+              "balls_breakup": {
+                "dot_balls": 4,
+                "wides": 0,
+                "no_balls": 0,
+                "fours": 2,
+                "sixes": 3
+              },
+              "wickets_breakup": {
+                "bowled": 0,
+                "caught": 1,
+                "lbw": 0,
+                "stumping": 0
+              },
+              "team_contribution_extras": {
+                "bye": 0,
+                "leg_bye": 0,
+                "penalty": 0
+              },
+              "innings_index": "a_1",
+              "stats": {
+                "boundary_percentage": 74.28571428571429,
+                "boundary_frequency": 3.6,
+                "dot_ball_percentage": 22.22222222222222,
+                "dot_ball_frequency": 4.5
+              }
+            }
+          }
+        ],
+        "match_score": {
+          "runs": 140,
+          "wickets": 2,
+          "run_rate": 12.73,
+          "title": "Required 62 from 54 balls",
+          "req_run_rate": 6.89,
+          "req_balls": 54,
+          "req_runs": 62
+        },
+        "sixes": 2,
+        "fours": 0,
+        "extras": 0,
+        "wides": 0,
+        "no_balls": 0,
+        "leg_byes": 0,
+        "byes": 0
+      }
+    ],
+    "previous_page_index": {
+      "innings": "a_1",
+      "over_number": 1
+    },
+    "next_page_index": null,
+    "previous_page_key": "a_1_1",
+    "next_page_key": null
+  },
+  "cache": {
+    "key": "api:rz:v5_cricket_match_over-summary:a-rz--cricket--lJ2031799077993340929",
+    "expires": 1774892961.742283,
+    "etag": "ET:2O13048422824811830273:0",
+    "max_age": 300
+  },
+  "schema": {
+    "major_version": "5.0",
+    "minor_version": "2"
+  },
+  "error": null,
+  "http_status_code": 200
+}

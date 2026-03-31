@@ -1,0 +1,3758 @@
+{
+    "881637": {
+        "leaguesName": "Indian Premier League",
+        "eventName": "RC Bengaluru v Sunrisers Hyderabad",
+        "matchId": 881637,
+        "eventId": 35364409,
+        "sportName": "cricket",
+        "events": {
+            "Who Will Win The Match?": {
+                "RC Bengaluru": {
+                    "back": null,
+                    "lay": null
+                },
+                "Sunrisers Hyderabad": {
+                    "back": 95,
+                    "lay": null
+                }
+            },
+            "Tied Match": {
+                "Yes": {
+                    "back": 400,
+                    "lay": 1000
+                },
+                "No": {
+                    "back": null,
+                    "lay": 1.01
+                }
+            },
+            "Match Odds": {
+                "RC Bengaluru": {
+                    "back": null,
+                    "lay": 1.01
+                },
+                "Sunrisers Hyderabad": {
+                    "back": 100,
+                    "lay": 110
+                }
+            },
+            "10 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 89,
+                "run_lay": 88,
+                "cat": "session_markets"
+            },
+            "0.4 Ball Run SRH": {
+                "back": 80,
+                "lay": 120,
+                "run_back": 2,
+                "run_lay": 2,
+                "cat": "ball_by_ball"
+            },
+            "0.5 Ball Run SRH": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 8,
+                "run_lay": 8,
+                "cat": "ball_by_ball"
+            },
+            "0.6 Ball Run SRH": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 8,
+                "run_lay": 8,
+                "cat": "ball_by_ball"
+            },
+            "6 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 46,
+                "run_lay": 45,
+                "cat": "session_markets"
+            },
+            "0.1 Ball Run SRH": {
+                "back": 90,
+                "lay": 140,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "ball_by_ball"
+            },
+            "0.2 Ball Run SRH": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "ball_by_ball"
+            },
+            "0.3 Ball Run SRH": {
+                "back": 100,
+                "lay": 150,
+                "run_back": 2,
+                "run_lay": 2,
+                "cat": "ball_by_ball"
+            },
+            "1st WKT Lost To SRH Balls": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 25,
+                "run_lay": 25,
+                "cat": "fall_of_wicket"
+            },
+            "1st WKT Pship Boundaries SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 7,
+                "run_lay": 6,
+                "cat": "fall_of_wicket"
+            },
+            "1st Wkt SRH Run Bhav": {
+                "back": 7,
+                "lay": 10,
+                "run_back": 19,
+                "run_lay": 19,
+                "cat": "fall_of_wicket"
+            },
+            "1st WKT Even Run SRH @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "1st Wkt Caught Out SRH @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "20 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 201,
+                "run_lay": 200,
+                "cat": "session_markets"
+            },
+            "20 Over SRH (2)": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 201,
+                "run_lay": 200,
+                "cat": "session_markets"
+            },
+            "20 Over SRH (3)": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 201,
+                "run_lay": 200,
+                "cat": "session_markets"
+            },
+            "1st 3 Wkt SRH": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 54,
+                "run_lay": 54,
+                "cat": "fall_of_wicket"
+            },
+            "1st 4 Wkt SRH": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 148,
+                "run_lay": 148,
+                "cat": "fall_of_wicket"
+            },
+            "1st Wkt SRH": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 42,
+                "run_lay": 42,
+                "cat": "fall_of_wicket"
+            },
+            "1st 2 Wkt SRH": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 48,
+                "run_lay": 48,
+                "cat": "fall_of_wicket"
+            },
+            "1.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10,
+                "cat": "session_markets"
+            },
+            "2nd Over Runs Only SRH": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 11,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "3rd Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 12,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "1 Over SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 8,
+                "run_lay": 8,
+                "cat": "session_markets"
+            },
+            "4 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 30,
+                "run_lay": 29,
+                "cat": "session_markets"
+            },
+            "Abhishek Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 35,
+                "run_lay": 35,
+                "cat": "other_markets"
+            },
+            "Abhishek Run Bhav": {
+                "back": 7,
+                "lay": 11,
+                "run_back": 8,
+                "run_lay": 8,
+                "cat": "other_markets"
+            },
+            "Abhishek Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 6,
+                "run_lay": 5,
+                "cat": "other_markets"
+            },
+            "H.M.B Face By Abhishek": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 21,
+                "run_lay": 21,
+                "cat": "other_markets"
+            },
+            "T Head Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "T Head Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 12,
+                "run_lay": 12,
+                "cat": "other_markets"
+            },
+            "T Head Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 7,
+                "run_lay": 6,
+                "cat": "other_markets"
+            },
+            "H.M.B Face By T Head": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 21,
+                "run_lay": 21,
+                "cat": "other_markets"
+            },
+            "Abhishek Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "T Head Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 37,
+                "run_lay": 37,
+                "cat": "other_markets"
+            },
+            "1st Innings 6 Overs Line": {
+                "back": 4368000,
+                "lay": 2894900,
+                "run_back": 54,
+                "run_lay": 53,
+                "cat": "line_markets"
+            },
+            "1st Innings 20 Overs Line": {
+                "back": 6048200,
+                "lay": 1742100,
+                "run_back": 202,
+                "run_lay": 201,
+                "cat": "line_markets"
+            },
+            "MATCH 1ST INNING 2 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 3 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 4 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 5 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 6 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 7 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 8 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 9 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 10 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 11 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 12 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 13 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 14 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 15 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 16 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 17 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 18 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "MATCH 1ST INNING 19 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "Bookmaker": {
+                "RC Bengaluru": {
+                    "back": 0.75,
+                    "lay": 1.25
+                },
+                "Sunrisers Hyderabad": {
+                    "back": 95,
+                    "lay": 105
+                }
+            },
+            "BOOKMAKER": {
+                "RC Bengaluru": {
+                    "back": 0,
+                    "lay": 1
+                },
+                "Sunrisers Hyderabad": {
+                    "back": 9897,
+                    "lay": 11902
+                }
+            },
+            "6 Over Bookmaker": {
+                "RCB 1 TO 6 Over Runs": {
+                    "back": "",
+                    "lay": ""
+                },
+                "SRH 1 TO 6 Over Runs": {
+                    "back": "",
+                    "lay": ""
+                }
+            },
+            "1.1 Ball Run SRH": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 8,
+                "run_lay": 8,
+                "cat": "ball_by_ball"
+            },
+            "1.2 Ball Run SRH": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 9,
+                "run_lay": 9,
+                "cat": "ball_by_ball"
+            },
+            "1.3 Ball Run SRH": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "ball_by_ball"
+            },
+            "1.4 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 11,
+                "run_lay": 11,
+                "cat": "ball_by_ball"
+            },
+            "1.5 Ball Run SRH": {
+                "back": 45,
+                "lay": 65,
+                "run_back": 13,
+                "run_lay": 13,
+                "cat": "ball_by_ball"
+            },
+            "1.6 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 14,
+                "run_lay": 14,
+                "cat": "ball_by_ball"
+            },
+            "2 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 15,
+                "run_lay": 14,
+                "cat": "session_markets"
+            },
+            "4th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "2.1 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 19,
+                "run_lay": 19,
+                "cat": "ball_by_ball"
+            },
+            "2.2 Ball Run SRH": {
+                "back": 90,
+                "lay": 140,
+                "run_back": 19,
+                "run_lay": 19,
+                "cat": "ball_by_ball"
+            },
+            "2.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 21,
+                "run_lay": 20,
+                "cat": "session_markets"
+            },
+            "2.3 Ball Run SRH": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 20,
+                "run_lay": 20,
+                "cat": "ball_by_ball"
+            },
+            "2.4 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 20,
+                "run_lay": 20,
+                "cat": "ball_by_ball"
+            },
+            "2.5 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 20,
+                "run_lay": 20,
+                "cat": "ball_by_ball"
+            },
+            "2.6 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 24,
+                "run_lay": 24,
+                "cat": "ball_by_ball"
+            },
+            "3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 25,
+                "run_lay": 24,
+                "cat": "session_markets"
+            },
+            "5th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "3.1 Ball Run SRH": {
+                "back": 80,
+                "lay": 120,
+                "run_back": 24,
+                "run_lay": 24,
+                "cat": "ball_by_ball"
+            },
+            "2nd WKT Pship Boundaries SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 6,
+                "run_lay": 5,
+                "cat": "fall_of_wicket"
+            },
+            "2nd Wkt SRH Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 24,
+                "run_lay": 24,
+                "cat": "fall_of_wicket"
+            },
+            "Kishan Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 97,
+                "run_lay": 97,
+                "cat": "other_markets"
+            },
+            "1st 5 Wkt SRH": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 158,
+                "run_lay": 158,
+                "cat": "fall_of_wicket"
+            },
+            "H.M.B Face By Kishan": {
+                "back": 80,
+                "lay": 100,
+                "run_back": 44,
+                "run_lay": 44,
+                "cat": "other_markets"
+            },
+            "2nd WKT Lost To SRH Balls": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 34,
+                "run_lay": 34,
+                "cat": "fall_of_wicket"
+            },
+            "2nd WKT Caught Out SRH @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "Kishan Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 16,
+                "run_lay": 15,
+                "cat": "other_markets"
+            },
+            "Kishan Run Bhav": {
+                "back": 7,
+                "lay": 11,
+                "run_back": 81,
+                "run_lay": 81,
+                "cat": "other_markets"
+            },
+            "Kishan Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "3.3 Over SRH": {
+                "back": 100,
+                "lay": 150,
+                "run_back": 29,
+                "run_lay": 29,
+                "cat": "session_markets"
+            },
+            "3.2 Ball Run SRH": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 28,
+                "run_lay": 28,
+                "cat": "ball_by_ball"
+            },
+            "2nd WKT Even Run SRH @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "3.3 Ball Run SRH": {
+                "back": 100,
+                "lay": 150,
+                "run_back": 29,
+                "run_lay": 29,
+                "cat": "ball_by_ball"
+            },
+            "3.4 Ball Run SRH": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 29,
+                "run_lay": 29,
+                "cat": "ball_by_ball"
+            },
+            "3.5 Ball Run SRH": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 29,
+                "run_lay": 29,
+                "cat": "ball_by_ball"
+            },
+            "3.6 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 29,
+                "run_lay": 29,
+                "cat": "ball_by_ball"
+            },
+            "6th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8,
+                "cat": "over_by_over_session_markets"
+            },
+            "3rd WKT Caught Out SRH @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "3rd Wkt SRH Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 30,
+                "run_lay": 30,
+                "cat": "fall_of_wicket"
+            },
+            "3rd WKT Pship Boundaries SRH": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 5,
+                "run_lay": 5,
+                "cat": "fall_of_wicket"
+            },
+            "H.M.B Face By H Klaasen": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 32,
+                "run_lay": 32,
+                "cat": "other_markets"
+            },
+            "3rd WKT Lost To SRH Balls": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 42,
+                "run_lay": 42,
+                "cat": "fall_of_wicket"
+            },
+            "5 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 35,
+                "run_lay": 34,
+                "cat": "session_markets"
+            },
+            "3rd WKT Even Run SRH @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "H Klaasen Runs": {
+                "back": 80,
+                "lay": 100,
+                "run_back": 54,
+                "run_lay": 54,
+                "cat": "other_markets"
+            },
+            "H Klaasen Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 7,
+                "run_lay": 6,
+                "cat": "other_markets"
+            },
+            "N Reddy Run Bhav": {
+                "back": 5,
+                "lay": 9,
+                "run_back": 2,
+                "run_lay": 2,
+                "cat": "other_markets"
+            },
+            "N Reddy Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "N Reddy Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 3,
+                "run_lay": 2,
+                "cat": "other_markets"
+            },
+            "4.1 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 30,
+                "run_lay": 30,
+                "cat": "ball_by_ball"
+            },
+            "H.M.B Face By N Reddy": {
+                "back": 80,
+                "lay": 100,
+                "run_back": 21,
+                "run_lay": 21,
+                "cat": "other_markets"
+            },
+            "4.2 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 30,
+                "run_lay": 30,
+                "cat": "ball_by_ball"
+            },
+            "N Reddy Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 22,
+                "run_lay": 22,
+                "cat": "other_markets"
+            },
+            "4.3 Over SRH": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 30,
+                "run_lay": 30,
+                "cat": "session_markets"
+            },
+            "4.3 Ball Run SRH": {
+                "back": 110,
+                "lay": 160,
+                "run_back": 30,
+                "run_lay": 30,
+                "cat": "ball_by_ball"
+            },
+            "4.4 Ball Run SRH": {
+                "back": 90,
+                "lay": 140,
+                "run_back": 30,
+                "run_lay": 30,
+                "cat": "ball_by_ball"
+            },
+            "1st 6 Wkt SRH": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 173,
+                "run_lay": 173,
+                "cat": "fall_of_wicket"
+            },
+            "4.5 Ball Run SRH": {
+                "back": 65,
+                "lay": 85,
+                "run_back": 33,
+                "run_lay": 33,
+                "cat": "ball_by_ball"
+            },
+            "7th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 8,
+                "run_lay": 7,
+                "cat": "over_by_over_session_markets"
+            },
+            "4.6 Ball Run SRH": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 34,
+                "run_lay": 34,
+                "cat": "ball_by_ball"
+            },
+            "5.1 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 34,
+                "run_lay": 34,
+                "cat": "ball_by_ball"
+            },
+            "8 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 70,
+                "run_lay": 69,
+                "cat": "session_markets"
+            },
+            "5.2 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 34,
+                "run_lay": 34,
+                "cat": "ball_by_ball"
+            },
+            "4th WKT Pship Boundaries SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 18,
+                "run_lay": 17,
+                "cat": "fall_of_wicket"
+            },
+            "5.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 41,
+                "run_lay": 40,
+                "cat": "session_markets"
+            },
+            "4th Wkt SRH Run Bhav": {
+                "back": 5,
+                "lay": 9,
+                "run_back": 127,
+                "run_lay": 127,
+                "cat": "fall_of_wicket"
+            },
+            "4th WKT Even Run SRH @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "4th WKT Lost To SRH Balls": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 88,
+                "run_lay": 88,
+                "cat": "fall_of_wicket"
+            },
+            "H Klaasen Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "H Klaasen Run Bhav": {
+                "back": 5,
+                "lay": 9,
+                "run_back": 32,
+                "run_lay": 32,
+                "cat": "other_markets"
+            },
+            "5.3 Ball Run SRH": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 40,
+                "run_lay": 40,
+                "cat": "ball_by_ball"
+            },
+            "4th WKT Caught Out SRH @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "5.4 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 44,
+                "run_lay": 44,
+                "cat": "ball_by_ball"
+            },
+            "5.5 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 50,
+                "run_lay": 50,
+                "cat": "ball_by_ball"
+            },
+            "8th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8,
+                "cat": "over_by_over_session_markets"
+            },
+            "7 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 55,
+                "run_lay": 54,
+                "cat": "session_markets"
+            },
+            "5.6 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 50,
+                "run_lay": 50,
+                "cat": "ball_by_ball"
+            },
+            "6.1 Ball Run SRH": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 50,
+                "run_lay": 50,
+                "cat": "ball_by_ball"
+            },
+            "6.2 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 51,
+                "run_lay": 51,
+                "cat": "ball_by_ball"
+            },
+            "6.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 53,
+                "run_lay": 52,
+                "cat": "session_markets"
+            },
+            "6.3 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 52,
+                "run_lay": 52,
+                "cat": "ball_by_ball"
+            },
+            "6.4 Ball Run SRH": {
+                "back": 35,
+                "lay": 55,
+                "run_back": 53,
+                "run_lay": 53,
+                "cat": "ball_by_ball"
+            },
+            "6.5 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 54,
+                "run_lay": 54,
+                "cat": "ball_by_ball"
+            },
+            "1st Innings 10 Overs Line": {
+                "back": 1547900,
+                "lay": 1368900,
+                "run_back": 89,
+                "run_lay": 88,
+                "cat": "line_markets"
+            },
+            "6.6 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 54,
+                "run_lay": 54,
+                "cat": "ball_by_ball"
+            },
+            "9th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "7.1 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 55,
+                "run_lay": 55,
+                "cat": "ball_by_ball"
+            },
+            "7.2 Ball Run SRH": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 56,
+                "run_lay": 56,
+                "cat": "ball_by_ball"
+            },
+            "7.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 61,
+                "run_lay": 60,
+                "cat": "session_markets"
+            },
+            "15 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 143,
+                "run_lay": 142,
+                "cat": "session_markets"
+            },
+            "7.3 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 60,
+                "run_lay": 60,
+                "cat": "ball_by_ball"
+            },
+            "7.4 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 61,
+                "run_lay": 61,
+                "cat": "ball_by_ball"
+            },
+            "7.5 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 65,
+                "run_lay": 65,
+                "cat": "ball_by_ball"
+            },
+            "10th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "7.6 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 69,
+                "run_lay": 69,
+                "cat": "ball_by_ball"
+            },
+            "9 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 80,
+                "run_lay": 79,
+                "cat": "session_markets"
+            },
+            "8.1 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 71,
+                "run_lay": 71,
+                "cat": "ball_by_ball"
+            },
+            "8.2 Ball Run SRH": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 72,
+                "run_lay": 72,
+                "cat": "ball_by_ball"
+            },
+            "8.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 74,
+                "run_lay": 73,
+                "cat": "session_markets"
+            },
+            "8.3 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 73,
+                "run_lay": 73,
+                "cat": "ball_by_ball"
+            },
+            "8.4 Ball Run SRH": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 73,
+                "run_lay": 73,
+                "cat": "ball_by_ball"
+            },
+            "8.5 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 77,
+                "run_lay": 77,
+                "cat": "ball_by_ball"
+            },
+            "11th Over Runs Only SRH": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "8.6 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 79,
+                "run_lay": 79,
+                "cat": "ball_by_ball"
+            },
+            "9.1 Ball Run SRH": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 80,
+                "run_lay": 80,
+                "cat": "ball_by_ball"
+            },
+            "9.2 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 80,
+                "run_lay": 80,
+                "cat": "ball_by_ball"
+            },
+            "12 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 103,
+                "run_lay": 102,
+                "cat": "session_markets"
+            },
+            "9.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 85,
+                "run_lay": 84,
+                "cat": "session_markets"
+            },
+            "9.3 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 84,
+                "run_lay": 84,
+                "cat": "ball_by_ball"
+            },
+            "9.4 Ball Run SRH": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 85,
+                "run_lay": 85,
+                "cat": "ball_by_ball"
+            },
+            "9.5 Ball Run SRH": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 86,
+                "run_lay": 86,
+                "cat": "ball_by_ball"
+            },
+            "9.6 Ball Run SRH": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 88,
+                "run_lay": 88,
+                "cat": "ball_by_ball"
+            },
+            "12th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "11 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 93,
+                "run_lay": 92,
+                "cat": "session_markets"
+            },
+            "10.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 90,
+                "run_lay": 89,
+                "cat": "session_markets"
+            },
+            "1st Innings 15 Overs Line": {
+                "back": 762100,
+                "lay": 536400,
+                "run_back": 143,
+                "run_lay": 142,
+                "cat": "line_markets"
+            },
+            "13th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "11.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 99,
+                "run_lay": 98,
+                "cat": "session_markets"
+            },
+            "14th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 12,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "13 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 122,
+                "run_lay": 121,
+                "cat": "session_markets"
+            },
+            "12.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 114,
+                "run_lay": 113,
+                "cat": "session_markets"
+            },
+            "15th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "13.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 128,
+                "run_lay": 127,
+                "cat": "session_markets"
+            },
+            "16 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 157,
+                "run_lay": 156,
+                "cat": "session_markets"
+            },
+            "14 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 136,
+                "run_lay": 135,
+                "cat": "session_markets"
+            },
+            "16th Over Runs Only SRH": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "5th WKT Caught Out SRH @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "5th Wkt SRH Run Bhav": {
+                "back": 7,
+                "lay": 11,
+                "run_back": 138,
+                "run_lay": 138,
+                "cat": "fall_of_wicket"
+            },
+            "5th WKT Even Run SRH @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "5th WKT Pship Boundaries SRH": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 4,
+                "run_lay": 4,
+                "cat": "fall_of_wicket"
+            },
+            "S Arora Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 4,
+                "run_lay": 3,
+                "cat": "other_markets"
+            },
+            "S Arora  Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 24,
+                "run_lay": 24,
+                "cat": "other_markets"
+            },
+            "S Arora Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "S Arora Run Bhav": {
+                "back": 8,
+                "lay": 12,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "other_markets"
+            },
+            "14.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 139,
+                "run_lay": 138,
+                "cat": "session_markets"
+            },
+            "17th Over Runs Only SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 12,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "15.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 150,
+                "run_lay": 149,
+                "cat": "session_markets"
+            },
+            "6th Wkt SRH Run Bhav": {
+                "back": 6,
+                "lay": 10,
+                "run_back": 156,
+                "run_lay": 156,
+                "cat": "fall_of_wicket"
+            },
+            "6th WKT Pship Boundaries SRH": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 6,
+                "run_lay": 6,
+                "cat": "fall_of_wicket"
+            },
+            "Aniket Boundaries": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 4,
+                "run_lay": 4,
+                "cat": "other_markets"
+            },
+            "6th WKT Caught Out SRH @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "Aniket Run Bhav": {
+                "back": 7,
+                "lay": 11,
+                "run_back": 13,
+                "run_lay": 13,
+                "cat": "other_markets"
+            },
+            "6th WKT Even Run SRH @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "Aniket Runs": {
+                "back": 100,
+                "lay": 120,
+                "run_back": 26,
+                "run_lay": 26,
+                "cat": "other_markets"
+            },
+            "Aniket Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "17.1 Ball Run SRH": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 169,
+                "run_lay": 169,
+                "cat": "ball_by_ball"
+            },
+            "17.4 Ball Run SRH": {
+                "back": 300,
+                "lay": 500,
+                "run_back": 176,
+                "run_lay": 176,
+                "cat": "ball_by_ball"
+            },
+            "17.2 Ball Run SRH": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 171,
+                "run_lay": 171,
+                "cat": "ball_by_ball"
+            },
+            "17.5 Ball Run SRH": {
+                "back": 250,
+                "lay": 400,
+                "run_back": 176,
+                "run_lay": 176,
+                "cat": "ball_by_ball"
+            },
+            "18th Over Runs Only SRH": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 11,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "17 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 169,
+                "run_lay": 168,
+                "cat": "session_markets"
+            },
+            "16.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 164,
+                "run_lay": 163,
+                "cat": "session_markets"
+            },
+            "19th Over Runs Only SRH": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "over_by_over_session_markets"
+            },
+            "7th WKT Caught Out SRH @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "7th Wkt SRH Run Bhav": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "fall_of_wicket"
+            },
+            "17.3 Ball Run SRH": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 175,
+                "run_lay": 175,
+                "cat": "ball_by_ball"
+            },
+            "17.6 Ball Run SRH": {
+                "back": 400,
+                "lay": 600,
+                "run_back": 176,
+                "run_lay": 176,
+                "cat": "ball_by_ball"
+            },
+            "17.3 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 175,
+                "run_lay": 174,
+                "cat": "session_markets"
+            },
+            "18 Over SRH": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 176,
+                "run_lay": 175,
+                "cat": "session_markets"
+            },
+            "18.1 Ball Run SRH": {
+                "back": 300,
+                "lay": 500,
+                "run_back": 177,
+                "run_lay": 177,
+                "cat": "ball_by_ball"
+            },
+            "18.2 Ball Run SRH": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 178,
+                "run_lay": 178,
+                "cat": "ball_by_ball"
+            },
+            "18.3 Ball Run SRH": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 184,
+                "run_lay": 184,
+                "cat": "ball_by_ball"
+            },
+            "18.4 Ball Run SRH": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 188,
+                "run_lay": 188,
+                "cat": "ball_by_ball"
+            },
+            "18.5 Ball Run SRH": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 195,
+                "run_lay": 195,
+                "cat": "ball_by_ball"
+            },
+            "18.6 Ball Run SRH": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "ball_by_ball"
+            },
+            "19.1 Ball Run SRH": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "ball_by_ball"
+            },
+            "19.2 Ball Run SRH": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "ball_by_ball"
+            },
+            "19.3 Ball Run SRH": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "ball_by_ball"
+            },
+            "19.4 Ball Run SRH": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "ball_by_ball"
+            },
+            "0.2 Ball Run RCB": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "ball_by_ball"
+            },
+            "0.3 Ball Run RCB": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "ball_by_ball"
+            },
+            "0.6 Ball Run RCB": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 9,
+                "run_lay": 9,
+                "cat": "ball_by_ball"
+            },
+            "0.1 Ball Run RCB": {
+                "back": 90,
+                "lay": 140,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "ball_by_ball"
+            },
+            "0.5 Ball Run RCB": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 5,
+                "run_lay": 5,
+                "cat": "ball_by_ball"
+            },
+            "0.4 Ball Run RCB": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 5,
+                "run_lay": 5,
+                "cat": "ball_by_ball"
+            },
+            "1 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "2 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "3 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "4 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "5 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "6 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "7 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "8 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "9 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "10 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "11 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "12 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "13 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "14 OVER TOTAL RUN RCB ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "1st WKT Even Run RCB @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "2nd Innings 6 Overs Line": {
+                "back": 548400,
+                "lay": 3900,
+                "run_back": 79,
+                "run_lay": 78,
+                "cat": "line_markets"
+            },
+            "1 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "session_markets"
+            },
+            "1st Wkt Lost To RCB Balls": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 26,
+                "run_lay": 26,
+                "cat": "fall_of_wicket"
+            },
+            "4 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 47,
+                "run_lay": 46,
+                "cat": "session_markets"
+            },
+            "1st Wkt RCB Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "fall_of_wicket"
+            },
+            "6 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 77,
+                "run_lay": 76,
+                "cat": "session_markets"
+            },
+            "1.3 Over RCB": {
+                "back": 75,
+                "lay": 125,
+                "run_back": 16,
+                "run_lay": 16,
+                "cat": "session_markets"
+            },
+            "1st Wkt Caught Out RCB @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "2nd Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "Kohli Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 46,
+                "run_lay": 46,
+                "cat": "other_markets"
+            },
+            "P Salt Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 32,
+                "run_lay": 32,
+                "cat": "other_markets"
+            },
+            "H.M.B Face By  P Salt": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 21,
+                "run_lay": 21,
+                "cat": "other_markets"
+            },
+            "Kohli Runs": {
+                "back": 100,
+                "lay": 120,
+                "run_back": 67,
+                "run_lay": 67,
+                "cat": "other_markets"
+            },
+            "1st 3 Wkt RCB": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 170,
+                "run_lay": 170,
+                "cat": "fall_of_wicket"
+            },
+            "1st Wkt Pship Boundaries RCB": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 7,
+                "run_lay": 7,
+                "cat": "fall_of_wicket"
+            },
+            "P Salt Run Bhav": {
+                "back": 5,
+                "lay": 9,
+                "run_back": 9,
+                "run_lay": 9,
+                "cat": "other_markets"
+            },
+            "1st 4 Wkt RCB": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 166,
+                "run_lay": 166,
+                "cat": "fall_of_wicket"
+            },
+            "P Salt  Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 7,
+                "run_lay": 6,
+                "cat": "other_markets"
+            },
+            "Kohli  Boundaries": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 9,
+                "run_lay": 9,
+                "cat": "other_markets"
+            },
+            "1st Wkt RCB": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 38,
+                "run_lay": 38,
+                "cat": "fall_of_wicket"
+            },
+            "1st 2 Wkt RCB": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 137,
+                "run_lay": 137,
+                "cat": "fall_of_wicket"
+            },
+            "H.M.B Face By  Kohli": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 40,
+                "run_lay": 40,
+                "cat": "other_markets"
+            },
+            "3rd  Over Runs Only  RCB": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "P Salt   Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "Kohli   Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "10 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 127,
+                "run_lay": 126,
+                "cat": "session_markets"
+            },
+            "1.1 Ball Run RCB": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "ball_by_ball"
+            },
+            "1.2 Ball Run RCB": {
+                "back": 100,
+                "lay": 150,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "ball_by_ball"
+            },
+            "1.3 Ball Run RCB": {
+                "back": 80,
+                "lay": 120,
+                "run_back": 16,
+                "run_lay": 16,
+                "cat": "ball_by_ball"
+            },
+            "1.4 Ball Run RCB": {
+                "back": 80,
+                "lay": 120,
+                "run_back": 17,
+                "run_lay": 17,
+                "cat": "ball_by_ball"
+            },
+            "1.5 Ball Run RCB": {
+                "back": 80,
+                "lay": 120,
+                "run_back": 17,
+                "run_lay": 17,
+                "cat": "ball_by_ball"
+            },
+            "4th  Over Runs Only  RCB": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 11,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "2 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 22,
+                "run_lay": 21,
+                "cat": "session_markets"
+            },
+            "1.6 Ball Run RCB": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 21,
+                "run_lay": 21,
+                "cat": "ball_by_ball"
+            },
+            "2.1 Ball Run RCB": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 22,
+                "run_lay": 22,
+                "cat": "ball_by_ball"
+            },
+            "1st 5 Wkt RCB": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 178,
+                "run_lay": 178,
+                "cat": "fall_of_wicket"
+            },
+            "2nd  Wkt Caught Out RCB @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "2nd  Wkt Pship Boundaries RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 20,
+                "run_lay": 19,
+                "cat": "fall_of_wicket"
+            },
+            "2nd  Wkt RCB Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 111,
+                "run_lay": 111,
+                "cat": "fall_of_wicket"
+            },
+            "R Patidar  Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 5,
+                "run_lay": 4,
+                "cat": "other_markets"
+            },
+            "2nd  Wkt Lost To RCB Balls": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 68,
+                "run_lay": 68,
+                "cat": "fall_of_wicket"
+            },
+            "2.2 Ball Run RCB": {
+                "back": 65,
+                "lay": 85,
+                "run_back": 23,
+                "run_lay": 23,
+                "cat": "ball_by_ball"
+            },
+            "2.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 28,
+                "run_lay": 27,
+                "cat": "session_markets"
+            },
+            "R Patidar  Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "2nd  WKT Even Run RCB @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "D Padikkal Run Bhav": {
+                "back": 6,
+                "lay": 9,
+                "run_back": 62,
+                "run_lay": 62,
+                "cat": "other_markets"
+            },
+            "D Padikkal Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 85,
+                "run_lay": 85,
+                "cat": "other_markets"
+            },
+            "2.3 Ball Run RCB": {
+                "back": 60,
+                "lay": 80,
+                "run_back": 27,
+                "run_lay": 27,
+                "cat": "ball_by_ball"
+            },
+            "D Padikkal Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 15,
+                "run_lay": 14,
+                "cat": "other_markets"
+            },
+            "H.M.B Face By D Padikkal": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 37,
+                "run_lay": 37,
+                "cat": "other_markets"
+            },
+            "2.4 Ball Run RCB": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 28,
+                "run_lay": 28,
+                "cat": "ball_by_ball"
+            },
+            "2.5 Ball Run RCB": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 29,
+                "run_lay": 29,
+                "cat": "ball_by_ball"
+            },
+            "3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 34,
+                "run_lay": 33,
+                "cat": "session_markets"
+            },
+            "D Padikkal Even Run @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "2.6 Ball Run RCB": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 33,
+                "run_lay": 33,
+                "cat": "ball_by_ball"
+            },
+            "5th  Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 12,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "3.1 Ball Run RCB": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 34,
+                "run_lay": 34,
+                "cat": "ball_by_ball"
+            },
+            "3.2 Ball Run RCB": {
+                "back": 45,
+                "lay": 65,
+                "run_back": 34,
+                "run_lay": 34,
+                "cat": "ball_by_ball"
+            },
+            "3.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 41,
+                "run_lay": 40,
+                "cat": "session_markets"
+            },
+            "3.3 Ball Run RCB": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 40,
+                "run_lay": 40,
+                "cat": "ball_by_ball"
+            },
+            "3.4 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 44,
+                "run_lay": 44,
+                "cat": "ball_by_ball"
+            },
+            "3.5 Ball Run RCB": {
+                "back": 45,
+                "lay": 65,
+                "run_back": 45,
+                "run_lay": 45,
+                "cat": "ball_by_ball"
+            },
+            "6th  Over Runs Only  RCB": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 12,
+                "run_lay": 12,
+                "cat": "over_by_over_session_markets"
+            },
+            "5 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 68,
+                "run_lay": 67,
+                "cat": "session_markets"
+            },
+            "3.6 Ball Run RCB": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 46,
+                "run_lay": 46,
+                "cat": "ball_by_ball"
+            },
+            "4.1 Ball Run RCB": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 52,
+                "run_lay": 52,
+                "cat": "ball_by_ball"
+            },
+            "4.2 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 52,
+                "run_lay": 52,
+                "cat": "ball_by_ball"
+            },
+            "4.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 59,
+                "run_lay": 58,
+                "cat": "session_markets"
+            },
+            "4.3 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 58,
+                "run_lay": 58,
+                "cat": "ball_by_ball"
+            },
+            "4.4 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 62,
+                "run_lay": 62,
+                "cat": "ball_by_ball"
+            },
+            "4.5 Ball Run RCB": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 63,
+                "run_lay": 63,
+                "cat": "ball_by_ball"
+            },
+            "7th  Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8,
+                "cat": "over_by_over_session_markets"
+            },
+            "4.6 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 67,
+                "run_lay": 67,
+                "cat": "ball_by_ball"
+            },
+            "5.1 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 68,
+                "run_lay": 68,
+                "cat": "ball_by_ball"
+            },
+            "5.2 Ball Run RCB": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 72,
+                "run_lay": 72,
+                "cat": "ball_by_ball"
+            },
+            "8 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 101,
+                "run_lay": 100,
+                "cat": "session_markets"
+            },
+            "5.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 74,
+                "run_lay": 73,
+                "cat": "session_markets"
+            },
+            "5.3 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 73,
+                "run_lay": 73,
+                "cat": "ball_by_ball"
+            },
+            "5.4 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 74,
+                "run_lay": 74,
+                "cat": "ball_by_ball"
+            },
+            "5.5 Ball Run RCB": {
+                "back": 35,
+                "lay": 55,
+                "run_back": 75,
+                "run_lay": 75,
+                "cat": "ball_by_ball"
+            },
+            "8th  Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "5.6 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 76,
+                "run_lay": 76,
+                "cat": "ball_by_ball"
+            },
+            "7 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 91,
+                "run_lay": 90,
+                "cat": "session_markets"
+            },
+            "6.1 Ball Run RCB": {
+                "back": 35,
+                "lay": 55,
+                "run_back": 77,
+                "run_lay": 77,
+                "cat": "ball_by_ball"
+            },
+            "6.2 Ball Run RCB": {
+                "back": 35,
+                "lay": 55,
+                "run_back": 81,
+                "run_lay": 81,
+                "cat": "ball_by_ball"
+            },
+            "6.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 83,
+                "run_lay": 82,
+                "cat": "session_markets"
+            },
+            "6.3 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 82,
+                "run_lay": 82,
+                "cat": "ball_by_ball"
+            },
+            "6.4 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 82,
+                "run_lay": 82,
+                "cat": "ball_by_ball"
+            },
+            "6.5 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 84,
+                "run_lay": 84,
+                "cat": "ball_by_ball"
+            },
+            "2nd Innings 10 Overs Line": {
+                "back": 475300,
+                "lay": 886400,
+                "run_back": 126,
+                "run_lay": 125,
+                "cat": "line_markets"
+            },
+            "6.6 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 90,
+                "run_lay": 90,
+                "cat": "ball_by_ball"
+            },
+            "9th  Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "7.1 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 90,
+                "run_lay": 90,
+                "cat": "ball_by_ball"
+            },
+            "7.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 92,
+                "run_lay": 91,
+                "cat": "session_markets"
+            },
+            "7.2 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 91,
+                "run_lay": 91,
+                "cat": "ball_by_ball"
+            },
+            "7.3 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 91,
+                "run_lay": 91,
+                "cat": "ball_by_ball"
+            },
+            "7.4 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 92,
+                "run_lay": 92,
+                "cat": "ball_by_ball"
+            },
+            "7.5 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 96,
+                "run_lay": 96,
+                "cat": "ball_by_ball"
+            },
+            "10th  Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8,
+                "cat": "over_by_over_session_markets"
+            },
+            "7.6 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 100,
+                "run_lay": 100,
+                "cat": "ball_by_ball"
+            },
+            "9 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 113,
+                "run_lay": 112,
+                "cat": "session_markets"
+            },
+            "15 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 185,
+                "run_lay": 184,
+                "cat": "session_markets"
+            },
+            "8.1 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 100,
+                "run_lay": 100,
+                "cat": "ball_by_ball"
+            },
+            "8.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 106,
+                "run_lay": 105,
+                "cat": "session_markets"
+            },
+            "8.2 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 101,
+                "run_lay": 101,
+                "cat": "ball_by_ball"
+            },
+            "8.3 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 105,
+                "run_lay": 105,
+                "cat": "ball_by_ball"
+            },
+            "8.4 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 111,
+                "run_lay": 111,
+                "cat": "ball_by_ball"
+            },
+            "8.5 Ball Run RCB": {
+                "back": 55,
+                "lay": 75,
+                "run_back": 111,
+                "run_lay": 111,
+                "cat": "ball_by_ball"
+            },
+            "11th  Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "8.6 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 112,
+                "run_lay": 112,
+                "cat": "ball_by_ball"
+            },
+            "9.1 Ball Run RCB": {
+                "back": 40,
+                "lay": 60,
+                "run_back": 112,
+                "run_lay": 112,
+                "cat": "ball_by_ball"
+            },
+            "9.2 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 113,
+                "run_lay": 113,
+                "cat": "ball_by_ball"
+            },
+            "9.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 120,
+                "run_lay": 119,
+                "cat": "session_markets"
+            },
+            "9.3 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 119,
+                "run_lay": 119,
+                "cat": "ball_by_ball"
+            },
+            "12 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 153,
+                "run_lay": 152,
+                "cat": "session_markets"
+            },
+            "9.4 Ball Run RCB": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 120,
+                "run_lay": 120,
+                "cat": "ball_by_ball"
+            },
+            "3rd  Wkt RCB Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 146,
+                "run_lay": 146,
+                "cat": "fall_of_wicket"
+            },
+            "3rd  Wkt Caught Out RCB @ 1": {
+                "back": 30,
+                "lay": 40,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "R Patidar Run Bhav": {
+                "back": 4,
+                "lay": 8,
+                "run_back": 19,
+                "run_lay": 19,
+                "cat": "other_markets"
+            },
+            "R Patidar Runs": {
+                "back": 80,
+                "lay": 100,
+                "run_back": 30,
+                "run_lay": 30,
+                "cat": "other_markets"
+            },
+            "3rd  WKT Even Run RCB @ 1": {
+                "back": 95,
+                "lay": 100,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "H.M.B Face By R Patidar": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 19,
+                "run_lay": 19,
+                "cat": "other_markets"
+            },
+            "3rd  Wkt Lost To RCB Balls": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 80,
+                "run_lay": 80,
+                "cat": "fall_of_wicket"
+            },
+            "3rd  Wkt Pship Boundaries RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8,
+                "cat": "fall_of_wicket"
+            },
+            "9.5 Ball Run RCB": {
+                "back": 35,
+                "lay": 55,
+                "run_back": 124,
+                "run_lay": 124,
+                "cat": "ball_by_ball"
+            },
+            "11 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 142,
+                "run_lay": 141,
+                "cat": "session_markets"
+            },
+            "9.6 Ball Run RCB": {
+                "back": 25,
+                "lay": 40,
+                "run_back": 126,
+                "run_lay": 126,
+                "cat": "ball_by_ball"
+            },
+            "12th  Over Runs Only  RCB": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 11,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "10.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 135,
+                "run_lay": 134,
+                "cat": "session_markets"
+            },
+            "2nd Innings 15 Overs Line": {
+                "back": 71900,
+                "lay": 123900,
+                "run_back": 185,
+                "run_lay": 184,
+                "cat": "line_markets"
+            },
+            "13th  Over Runs Only  RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 12,
+                "run_lay": 11,
+                "cat": "over_by_over_session_markets"
+            },
+            "11.3 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 147,
+                "run_lay": 146,
+                "cat": "session_markets"
+            },
+            "13 Over RCB": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 163,
+                "run_lay": 162,
+                "cat": "session_markets"
+            },
+            "12.3 Over RCB": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0,
+                "cat": "session_markets"
+            }
+        }
+   
+    },
+    "895125": {
+        "leaguesName": "Pakistan Super League",
+        "eventName": "Quetta Gladiators v Karachi Kings",
+        "matchId": 895125,
+        "eventId": 35391987,
+        "sportName": "cricket",
+        "events": {
+            "Who Will Win The Match?": {
+                "Quetta Gladiators": {
+                    "back": null,
+                    "lay": null
+                },
+                "Karachi Kings": {
+                    "back": null,
+                    "lay": null
+                }
+            },
+            "Tied Match": {
+                "Yes": {
+                    "back": null,
+                    "lay": null
+                },
+                "No": {
+                    "back": null,
+                    "lay": null
+                }
+            },
+            "Match Odds": {
+                "Quetta Gladiators": {
+                    "back": null,
+                    "lay": null
+                },
+                "Karachi Kings": {
+                    "back": null,
+                    "lay": null
+                }
+            },
+            "1st 6 Wkt KK": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 151,
+                "run_lay": 151
+            },
+            "15.3 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 129,
+                "run_lay": 128
+            },
+            "16 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 138,
+                "run_lay": 137
+            },
+            "20 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 181,
+                "run_lay": 180
+            },
+            "20 Over KK (2)": {
+                "back": 60,
+                "lay": 90,
+                "run_back": 180,
+                "run_lay": 180
+            },
+            "17th Over Runs Only KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8
+            },
+            "6th Wkt Pship Boundaries KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 8,
+                "run_lay": 7
+            },
+            "6th Wkt KK Run Bhav": {
+                "back": 8,
+                "lay": 12,
+                "run_back": 141,
+                "run_lay": 141
+            },
+            "6th Wkt Caught Out KK @ 1": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 1,
+                "run_lay": 1
+            },
+            "Khushdil  Runs": {
+                "back": 100,
+                "lay": 120,
+                "run_back": 26,
+                "run_lay": 26
+            },
+            "Moeen Ali Run Bhav": {
+                "back": 7,
+                "lay": 10,
+                "run_back": 24,
+                "run_lay": 24
+            },
+            "Moeen Ali Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 5,
+                "run_lay": 4
+            },
+            "Moeen Ali Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 33,
+                "run_lay": 33
+            },
+            "17.6 Ball Run KK": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 154,
+                "run_lay": 154
+            },
+            "17.2 Ball Run KK": {
+                "back": 150,
+                "lay": 250,
+                "run_back": 146,
+                "run_lay": 146
+            },
+            "17.3 Ball Run KK": {
+                "back": 200,
+                "lay": 300,
+                "run_back": 147,
+                "run_lay": 147
+            },
+            "17.4 Ball Run KK": {
+                "back": 150,
+                "lay": 250,
+                "run_back": 147,
+                "run_lay": 147
+            },
+            "17.5 Ball Run KK": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 148,
+                "run_lay": 148
+            },
+            "Khushdil  Run Bhav": {
+                "back": 6,
+                "lay": 9,
+                "run_back": 13,
+                "run_lay": 13
+            },
+            "Khushdil  Boundaries": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 4,
+                "run_lay": 4
+            },
+            "17.1 Ball Run KK": {
+                "back": 200,
+                "lay": 300,
+                "run_back": 145,
+                "run_lay": 145
+            },
+            "1st Innings 20 Overs Line": {
+                "back": 1354900,
+                "lay": 169400,
+                "run_back": 182,
+                "run_lay": 180
+            },
+            "MATCH 1ST INNING 17 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "MATCH 1ST INNING 18 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "MATCH 1ST INNING 19 OVER TOTAL RUN ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "19 over two boundaries bhav KK": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 2,
+                "run_lay": 2
+            },
+            "20 over two boundaries bhav KK": {
+                "back": 50,
+                "lay": 70,
+                "run_back": 2,
+                "run_lay": 2
+            },
+            "Bookmaker": {
+                "Quetta Gladiators": {
+                    "back": 80,
+                    "lay": 84
+                },
+                "Karachi Kings": {
+                    "back": 0,
+                    "lay": 1
+                }
+            },
+            "6 Over Bookmaker  QG VS KK": {
+                "QG 1 TO 6 Over Runs": {
+                    "back": "",
+                    "lay": ""
+                },
+                "KK 1 TO 6 Over Runs": {
+                    "back": "",
+                    "lay": "0"
+                }
+            },
+            "16.3 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 141,
+                "run_lay": 140
+            },
+            "17 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 144,
+                "run_lay": 143
+            },
+            "18th Over Runs Only KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8
+            },
+            "17.3 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 147,
+                "run_lay": 146
+            },
+            "18 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 154,
+                "run_lay": 153
+            },
+            "19th Over Runs Only KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10
+            },
+            "18.1 Ball Run KK": {
+                "back": 150,
+                "lay": 250,
+                "run_back": 158,
+                "run_lay": 158
+            },
+            "18.3 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 162,
+                "run_lay": 161
+            },
+            "18.3 Ball Run KK": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 162,
+                "run_lay": 162
+            },
+            "19 Over KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 169,
+                "run_lay": 168
+            },
+            "18.5 Ball Run KK": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 163,
+                "run_lay": 163
+            },
+            "18.2 Ball Run KK": {
+                "back": 150,
+                "lay": 250,
+                "run_back": 158,
+                "run_lay": 158
+            },
+            "18.4 Ball Run KK": {
+                "back": 250,
+                "lay": 400,
+                "run_back": 162,
+                "run_lay": 162
+            },
+            "18.6 Ball Run KK": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 169,
+                "run_lay": 169
+            },
+            "20th Over Runs Only KK": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 12,
+                "run_lay": 11
+            },
+            "19.1 Ball Run KK": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "19.3 Ball Run KK": {
+                "back": 100,
+                "lay": 150,
+                "run_back": 172,
+                "run_lay": 172
+            },
+            "19.6 Ball Run KK": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "19.2 Ball Run KK": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "19.4 Ball Run KK": {
+                "back": 80,
+                "lay": 130,
+                "run_back": 176,
+                "run_lay": 176
+            },
+            "19.5 Ball Run KK": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "1st Wkt QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "1st 2 Wkt QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "0.1 Ball Run QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "1.3 Over QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "1 Over QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "Shakeel Boundaries": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "Shakeel Runs": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "1 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "2 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "3 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "4 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "5 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "6 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "7 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "8 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "9 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "10 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "11 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "12 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "13 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02"
+            },
+            "14 OVER TOTAL RUN QG ODD": {
+                "back": 100,
+                "lay": 100,
+                "run_back": "1.98",
+                "run_lay": "2.02",
+                "cat": "odd_even_markets"
+            },
+            "1st WKT Pship Boundaries QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "Shakeel Run Bhav": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "1st 3 Wkt QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "0.3 Ball Run QG": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "1st Wkt QG Run Bhav": {
+                "back": 0,
+                "lay": 0,
+                "run_back": 0,
+                "run_lay": 0
+            },
+            "12 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 110,
+                "run_lay": 109
+            },
+            "11 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 104,
+                "run_lay": 103
+            },
+            "10.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 103,
+                "run_lay": 102
+            },
+            "15 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 125,
+                "run_lay": 124,
+                "cat": "session_markets"
+            },
+            "4th WKT Caught Out QG @ 1": {
+                "back": 30,
+                "lay": 50,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "4th WKT Pship Boundaries QG": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 4,
+                "run_lay": 4,
+                "cat": "fall_of_wicket"
+            },
+            "Rossouw Run Bhav": {
+                "back": 10,
+                "lay": 15,
+                "run_back": 26,
+                "run_lay": 26,
+                "cat": "other_markets"
+            },
+            "Rossouw Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 6,
+                "run_lay": 5,
+                "cat": "other_markets"
+            },
+            "H Nawaz Runs": {
+                "back": 105,
+                "lay": 125,
+                "run_back": 24,
+                "run_lay": 24,
+                "cat": "other_markets"
+            },
+            "Rossouw Runs": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 40,
+                "run_lay": 40,
+                "cat": "other_markets"
+            },
+            "12th Over Runs Only QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 8,
+                "run_lay": 7
+            },
+            "4th Wkt QG Run Bhav": {
+                "back": 8,
+                "lay": 12,
+                "run_back": 125,
+                "run_lay": 125,
+                "cat": "fall_of_wicket"
+            },
+            "1st 4 Wkt QG": {
+                "back": 90,
+                "lay": 110,
+                "run_back": 140,
+                "run_lay": 140,
+                "cat": "fall_of_wicket"
+            },
+            "H Nawaz Run Bhav": {
+                "back": 10,
+                "lay": 15,
+                "run_back": 20,
+                "run_lay": 20,
+                "cat": "other_markets"
+            },
+            "2nd Innings 15 Overs Line": {
+                "back": 87200,
+                "lay": 341300,
+                "run_back": 127,
+                "run_lay": 125,
+                "cat": "line_markets"
+            },
+            "H Nawaz Boundaries": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 2,
+                "run_lay": 1,
+                "cat": "other_markets"
+            },
+            "11.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 106,
+                "run_lay": 105
+            },
+            "13th Over Runs Only QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 9,
+                "run_lay": 8
+            },
+            "13 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 114,
+                "run_lay": 113,
+                "cat": "session_markets"
+            },
+            "12.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 112,
+                "run_lay": 111,
+                "cat": "session_markets"
+            },
+            "14th Over Runs Only QG": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 9,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "16 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 127,
+                "run_lay": 126,
+                "cat": "session_markets"
+            },
+            "13.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 118,
+                "run_lay": 117,
+                "cat": "session_markets"
+            },
+            "14 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 119,
+                "run_lay": 118,
+                "cat": "session_markets"
+            },
+            "15th Over Runs Only QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 10,
+                "run_lay": 9,
+                "cat": "over_by_over_session_markets"
+            },
+            "14.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 121,
+                "run_lay": 120,
+                "cat": "session_markets"
+            },
+            "16th Over Runs Only QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 11,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "15.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 127,
+                "run_lay": 126,
+                "cat": "session_markets"
+            },
+            "17th Over Runs Only QG": {
+                "back": 85,
+                "lay": 115,
+                "run_back": 10,
+                "run_lay": 10,
+                "cat": "over_by_over_session_markets"
+            },
+            "17 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 138,
+                "run_lay": 137,
+                "cat": "session_markets"
+            },
+            "5th Wkt QG Run Bhav": {
+                "back": 10,
+                "lay": 15,
+                "run_back": 147,
+                "run_lay": 147,
+                "cat": "fall_of_wicket"
+            },
+            "5th WKT Caught Out QG @ 1": {
+                "back": 40,
+                "lay": 55,
+                "run_back": 1,
+                "run_lay": 1,
+                "cat": "fall_of_wicket"
+            },
+            "17.2 Ball Run QG": {
+                "back": 130,
+                "lay": 200,
+                "run_back": 138,
+                "run_lay": 138,
+                "cat": "ball_by_ball"
+            },
+            "17.6 Ball Run QG": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 148,
+                "run_lay": 148,
+                "cat": "ball_by_ball"
+            },
+            "17.4 Ball Run QG": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 140,
+                "run_lay": 140,
+                "cat": "ball_by_ball"
+            },
+            "17.1 Ball Run QG": {
+                "back": 150,
+                "lay": 250,
+                "run_back": 138,
+                "run_lay": 138,
+                "cat": "ball_by_ball"
+            },
+            "B McDermott Run Bhav (N)": {
+                "back": 12,
+                "lay": 17,
+                "run_back": 12,
+                "run_lay": 12,
+                "cat": "other_markets"
+            },
+            "17.3 Ball Run QG": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 138,
+                "run_lay": 138,
+                "cat": "ball_by_ball"
+            },
+            "17.5 Ball Run QG": {
+                "back": 110,
+                "lay": 160,
+                "run_back": 144,
+                "run_lay": 144,
+                "cat": "ball_by_ball"
+            },
+            "16.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 132,
+                "run_lay": 131,
+                "cat": "session_markets"
+            },
+            "20 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 168,
+                "run_lay": 167,
+                "cat": "session_markets"
+            },
+            "17.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 138,
+                "run_lay": 137,
+                "cat": "session_markets"
+            },
+            "18 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 148,
+                "run_lay": 147,
+                "cat": "session_markets"
+            },
+            "19 over two boundaries bhav QG": {
+                "back": 400,
+                "lay": 600,
+                "run_back": 2,
+                "run_lay": 2,
+                "cat": "over_by_over_session_markets"
+            },
+            "18.1 Ball Run QG": {
+                "back": 100,
+                "lay": 150,
+                "run_back": 149,
+                "run_lay": 149,
+                "cat": "ball_by_ball"
+            },
+            "18.2 Ball Run QG": {
+                "back": 100,
+                "lay": 150,
+                "run_back": 150,
+                "run_lay": 150,
+                "cat": "ball_by_ball"
+            },
+            "18.3 Ball Run QG": {
+                "back": 200,
+                "lay": 300,
+                "run_back": 150,
+                "run_lay": 150,
+                "cat": "ball_by_ball"
+            },
+            "18.3 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 150,
+                "run_lay": 149,
+                "cat": "session_markets"
+            },
+            "18.4 Ball Run QG": {
+                "back": 300,
+                "lay": 450,
+                "run_back": 150,
+                "run_lay": 150,
+                "cat": "ball_by_ball"
+            },
+            "18.5 Ball Run QG": {
+                "back": 200,
+                "lay": 300,
+                "run_back": 150,
+                "run_lay": 150,
+                "cat": "ball_by_ball"
+            },
+            "19 Over QG": {
+                "back": 100,
+                "lay": 100,
+                "run_back": 154,
+                "run_lay": 153,
+                "cat": "session_markets"
+            },
+            "18.6 Ball Run QG": {
+                "back": 200,
+                "lay": 300,
+                "run_back": 154,
+                "run_lay": 154,
+                "cat": "ball_by_ball"
+            },
+            "19.1 Ball Run QG": {
+                "back": 120,
+                "lay": 170,
+                "run_back": 154,
+                "run_lay": 154,
+                "cat": "ball_by_ball"
+            },
+            "19.2 Ball Run QG": {
+                "back": 90,
+                "lay": 140,
+                "run_back": 158,
+                "run_lay": 158,
+                "cat": "ball_by_ball"
+            },
+            "19.3 Ball Run QG": {
+                "back": 200,
+                "lay": 300,
+                "run_back": 159,
+                "run_lay": 159,
+                "cat": "ball_by_ball"
+            },
+            "19.4 Ball Run QG": {
+                "back": 150,
+                "lay": 250,
+                "run_back": 161,
+                "run_lay": 161,
+                "cat": "ball_by_ball"
+            },
+            "19.5 Ball Run QG": {
+                "back": 90,
+                "lay": 140,
+                "run_back": 162,
+                "run_lay": 162,
+                "cat": "ball_by_ball"
+            },
+            "20 over two boundaries bhav QG": {
+                "back": 70,
+                "lay": 100,
+                "run_back": 2,
+                "run_lay": "",
+                "cat": "over_by_over_session_markets"
+            },
+            "19.6 Ball Run QG": {
+                "back": 150,
+                "lay": 250,
+                "run_back": 168,
+                "run_lay": 168,
+                "cat": "ball_by_ball"
+            }
+        }
+    },
+    "907800": {
+        "leaguesName": "WTA Dubrovnik 2026",
+        "eventName": "M Sherif v Ley Romero Gormaz",
+        "matchId": 907800,
+        "eventId": 35414080,
+        "sportName": "tennis",
+        "events": {
+            "Who Will Win The Match?": {
+                "Mayar Sherif": {
+                    "back": 3.1,
+                    "lay": null
+                },
+                "Leyre Romero Gormaz": {
+                    "back": 1.42,
+                    "lay": null
+                }
+            },
+            "Match Odds": {
+                "Mayar Sherif": {
+                    "back": 3.2,
+                    "lay": 3.25
+                },
+                "Leyre Romero Gormaz": {
+                    "back": 1.44,
+                    "lay": 1.45
+                }
+            }
+        }
+    },
+    "908469": {
+        "leaguesName": "FIFA Series",
+        "eventName": "Kenya v Estonia",
+        "matchId": 908469,
+        "eventId": 35418591,
+        "sportName": "soccer",
+        "events": {
+            "Over/Under 2.5 Goals": {
+                "Under 2.5 Goals": {
+                    "back": 2.02,
+                    "lay": 2.06
+                },
+                "Over 2.5 Goals": {
+                    "back": 1.94,
+                    "lay": 1.97
+                }
+            },
+            "Match Odds": {
+                "Kenya": {
+                    "back": 3.25,
+                    "lay": 3.3
+                },
+                "Estonia": {
+                    "back": 6.6,
+                    "lay": 7
+                },
+                "The Draw": {
+                    "back": 1.81,
+                    "lay": 1.84
+                }
+            }
+        }
+    },
+    "908482": {
+        "leaguesName": "UEFA U21 Euro Qualifiers",
+        "eventName": "Norway U21 v Netherlands U21",
+        "matchId": 908482,
+        "eventId": 35414768,
+        "sportName": "soccer",
+        "events": {
+            "Who Will Win The Match?": {
+                "Norway U21": {
+                    "back": 2.13,
+                    "lay": null
+                },
+                "Netherlands U21": {
+                    "back": 3.55,
+                    "lay": null
+                },
+                "The Draw": {
+                    "back": 3.4,
+                    "lay": null
+                }
+            },
+            "Over/Under 0.5 Goals": {
+                "Under 0.5 Goals": {
+                    "back": 10,
+                    "lay": 11
+                },
+                "Over 0.5 Goals": {
+                    "back": 1.1,
+                    "lay": 1.11
+                }
+            },
+            "Match Odds": {
+                "Norway U21": {
+                    "back": 2.18,
+                    "lay": 2.26
+                },
+                "Netherlands U21": {
+                    "back": 3.65,
+                    "lay": 3.8
+                },
+                "The Draw": {
+                    "back": 3.5,
+                    "lay": 3.6
+                }
+            },
+            "Over/Under 1.5 Goals": {
+                "Under 1.5 Goals": {
+                    "back": 3.05,
+                    "lay": 3.2
+                },
+                "Over 1.5 Goals": {
+                    "back": 1.46,
+                    "lay": 1.48
+                }
+            },
+            "Over/Under 2.5 Goals": {
+                "Under 2.5 Goals": {
+                    "back": 1.7,
+                    "lay": 1.71
+                },
+                "Over 2.5 Goals": {
+                    "back": 2.4,
+                    "lay": 2.44
+                }
+            }
+        }
+    }
+}
