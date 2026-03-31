@@ -62,5 +62,5 @@ let page='a_1_1'
     }
 
 
-    getData();
+    getData3();
 

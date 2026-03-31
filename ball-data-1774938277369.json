@@ -1,0 +1,203 @@
+{
+  "data": {
+    "over": {
+      "index": {
+        "innings": "a_1",
+        "over_number": 16
+      },
+      "balls": [
+        {
+          "key": "1056512",
+          "ball_type": "normal",
+          "batting_team": "a",
+          "comment": "Harshal Patel to Virat Kohli: <b>FOUR</b>. 4 runs.",
+          "innings": "a_1",
+          "overs": [
+            15,
+            4
+          ],
+          "batsman": {
+            "player_key": "v_kohli",
+            "ball_count": 1,
+            "runs": 4,
+            "is_dot_ball": false,
+            "is_four": true,
+            "is_six": false,
+            "milestone": null
+          },
+          "bowler": {
+            "player_key": "h_patel",
+            "ball_count": 1,
+            "runs": 4,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "team_score": {
+            "ball_count": 1,
+            "runs": 4,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "fielders": [],
+          "wicket": null,
+          "non_striker_key": "tim_david",
+          "entry_time": 1774719168.32,
+          "ball_play_status": "played",
+          "ball_tags": [],
+          "updated_time": 1774719168.32,
+          "repr": "b4",
+          "display_score": "203/4 in 15.4 overs",
+          "team_batting_milestone": true
+        },
+        {
+          "key": "1056448",
+          "ball_type": "normal",
+          "batting_team": "a",
+          "comment": "Harshal Patel to Virat Kohli: <b>FOUR</b>. 4 runs.",
+          "innings": "a_1",
+          "overs": [
+            15,
+            3
+          ],
+          "batsman": {
+            "player_key": "v_kohli",
+            "ball_count": 1,
+            "runs": 4,
+            "is_dot_ball": false,
+            "is_four": true,
+            "is_six": false,
+            "milestone": null
+          },
+          "bowler": {
+            "player_key": "h_patel",
+            "ball_count": 1,
+            "runs": 4,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "team_score": {
+            "ball_count": 1,
+            "runs": 4,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "fielders": [],
+          "wicket": null,
+          "non_striker_key": "tim_david",
+          "entry_time": 1774719129.263,
+          "ball_play_status": "played",
+          "ball_tags": [],
+          "updated_time": 1774719129.263,
+          "repr": "b4",
+          "display_score": "199/4 in 15.3 overs",
+          "team_batting_milestone": false
+        },
+        {
+          "key": "1056384",
+          "ball_type": "normal",
+          "batting_team": "a",
+          "comment": "Harshal Patel to Virat Kohli: <b>FOUR</b>. 4 runs.",
+          "innings": "a_1",
+          "overs": [
+            15,
+            2
+          ],
+          "batsman": {
+            "player_key": "v_kohli",
+            "ball_count": 1,
+            "runs": 4,
+            "is_dot_ball": false,
+            "is_four": true,
+            "is_six": false,
+            "milestone": null
+          },
+          "bowler": {
+            "player_key": "h_patel",
+            "ball_count": 1,
+            "runs": 4,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "team_score": {
+            "ball_count": 1,
+            "runs": 4,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "fielders": [],
+          "wicket": null,
+          "non_striker_key": "tim_david",
+          "entry_time": 1774719094.232,
+          "ball_play_status": "played",
+          "ball_tags": [],
+          "updated_time": 1774719094.232,
+          "repr": "b4",
+          "display_score": "195/4 in 15.2 overs",
+          "team_batting_milestone": false
+        },
+        {
+          "key": "1056320",
+          "ball_type": "normal",
+          "batting_team": "a",
+          "comment": "Harshal Patel to Virat Kohli: <b>SIX</b>. 6 runs.",
+          "innings": "a_1",
+          "overs": [
+            15,
+            1
+          ],
+          "batsman": {
+            "player_key": "v_kohli",
+            "ball_count": 1,
+            "runs": 6,
+            "is_dot_ball": false,
+            "is_four": false,
+            "is_six": true,
+            "milestone": null
+          },
+          "bowler": {
+            "player_key": "h_patel",
+            "ball_count": 1,
+            "runs": 6,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "team_score": {
+            "ball_count": 1,
+            "runs": 6,
+            "extras": 0,
+            "is_wicket": false
+          },
+          "fielders": [],
+          "wicket": null,
+          "non_striker_key": "tim_david",
+          "entry_time": 1774719060.389,
+          "ball_play_status": "played",
+          "ball_tags": [],
+          "updated_time": 1774719060.389,
+          "repr": "b6",
+          "display_score": "191/4 in 15.1 overs",
+          "team_batting_milestone": false
+        }
+      ]
+    },
+    "previous_over_index": {
+      "innings": "a_1",
+      "over_number": 15
+    },
+    "next_over_index": null,
+    "previous_over_key": "a_1_15",
+    "next_over_key": null
+  },
+  "cache": {
+    "key": "api:rz:v5_cricket_match_ball-by-ball:a-rz--cricket--lJ2031799077993340929",
+    "expires": 1775049529.593333,
+    "etag": "ET:Dr13048423137857903792:0",
+    "max_age": 300
+  },
+  "schema": {
+    "major_version": "5.0",
+    "minor_version": "2"
+  },
+  "error": null,
+  "http_status_code": 200
+}

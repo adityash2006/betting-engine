@@ -132,6 +132,7 @@ export class RoanuzFetcher {
     }
 
     const json = await response.json();
+    //@ts-ignore
     const token = json?.data?.token ?? json?.data?.auth?.token ?? json?.token;
     if (!token) {
       throw new Error('Roanuz auth response did not include a token.');
@@ -169,6 +170,7 @@ function parseInningsKey(value?: string): number | undefined {
 async function extractError(response: Response): Promise<string> {
   try {
     const data = await response.json();
+    //@ts-ignore
     return data?.error?.message ?? data?.message ?? JSON.stringify(data);
   } catch {
     return response.statusText;

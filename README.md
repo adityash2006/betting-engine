@@ -35,6 +35,20 @@ bun run index.ts
 5. `evaluator.ts` checks every bet (ball, over, session, player, wicket, match, partnership, special) returning `true`, `false`, or `null` (pending).
 6. The final report prints a concise line per bet, indicating the evaluation outcome.
 
+## Workflow diagram
+
+```mermaid
+flowchart LR
+	A[events.json markets] --> B[parser.ts]
+	B --> C[Bet objects]
+	C --> D[fetcher.ts]
+	D --> E[adapter.ts]
+	E --> F[MatchData]
+	C --> G[evaluator.ts]
+	F --> G
+	G --> H[Console report]
+```
+
 ## File overview
 
 - `parser.ts` – Extensible regex parser for cricket bet names.

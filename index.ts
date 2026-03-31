@@ -171,5 +171,6 @@ function formatResult(result: EvaluationResult): string {
 
 main().catch((error) => {
   console.error(error);
+  console.log("erros at the main file");
   process.exitCode = 1;
 });
